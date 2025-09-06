@@ -1,0 +1,1001 @@
+ReturnID,OrderID,ProductID,CustomerID,StoreID,ReturnReason,ReturnDate,RefundAmount,ReturnStatus,ProductName,Category,Return_Count,Unnamed: 0,stale_returns,stale_refund,damaged_returns,damaged_refund,total_returns,total_returns_amount
+17794,12794,1011,15794,2075,Stale Product,33:03.4,300,Processed,Bananas (12 pcs),Fruits,19,75,4,833,0,0,4,833
+13898,8898,1030,11898,2050,Damaged Item,43:03.4,875,Processed,Johnson's Baby Powder 400g,Personal Care,22,50,4,1910,0,0,4,1910
+17271,12271,1012,15271,2056,Damaged Item,13:03.4,360,Processed,Saffola Gold Oil 1L,Grocery,17,56,7,3594,0,0,7,3594
+12959,7959,1028,10959,2050,Stale Product,23:03.4,600,Processed,Catch Black Pepper 100g,Grocery,12,50,4,1910,0,0,4,1910
+13863,8863,1024,11863,2016,Stale Product,21:03.4,1125,Processed,Bournvita 500g,Beverages,29,16,10,5503,0,0,10,5503
+13221,8221,1038,11221,2094,Stale Product,08:03.4,450,Processed,Coca-Cola 2L,Beverages,15,94,4,1029,0,0,4,1029
+16430,11430,1050,14430,2068,Damaged Item,36:03.4,297,Processed,Dabur Red Toothpaste 200g,Personal Care,12,68,1,170,0,0,1,170
+10730,5730,1031,8730,2060,Damaged Item,44:03.4,650,Processed,Himalaya Face Wash 100ml,Personal Care,19,60,7,2869,0,0,7,2869
+17110,12110,1002,15110,2037,Stale Product,19:03.4,40,Processed,Mother Dairy Curd 400g,Dairy,17,37,7,1860,0,0,7,1860
+13281,8281,1022,11281,2039,Stale Product,03:03.4,320,Processed,Fortune Sunflower Oil 1L,Grocery,20,39,5,3560,0,0,5,3560
+16754,11754,1023,14754,2010,Stale Product,07:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,10,10,5120,0,0,10,5120
+17463,12463,1015,15463,2009,Damaged Item,47:03.4,345,Processed,Colgate Toothpaste 200g,Personal Care,22,9,5,2485,0,0,5,2485
+14541,9541,1001,12541,2090,Damaged Item,08:03.4,260,Processed,Amul Butter 500g,Dairy,27,90,4,1091,0,0,4,1091
+8057,3057,1024,6057,2073,Damaged Item,37:03.4,675,Processed,Bournvita 500g,Beverages,29,73,7,2970,0,0,7,2970
+16855,11855,1030,14855,2006,Damaged Item,46:03.4,875,Processed,Johnson's Baby Powder 400g,Personal Care,22,6,7,2491,0,0,7,2491
+8247,3247,1025,6247,2007,Damaged Item,58:03.4,45,Processed,Dove Soap 125g,Personal Care,21,7,5,1545,0,0,5,1545
+13269,8269,1000,11269,2087,Stale Product,58:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,87,6,1715,0,0,6,1715
+11020,6020,1001,9020,2099,Damaged Item,31:03.4,1300,Processed,Amul Butter 500g,Dairy,27,99,1,950,0,0,1,950
+15012,10012,1017,13012,2040,Damaged Item,42:03.4,240,Processed,Tata Tea Premium 500g,Beverages,12,40,4,900,0,0,4,900
+11628,6628,1000,9628,2053,Stale Product,40:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,53,7,3841,0,0,7,3841
+14068,9068,1006,12068,2050,Damaged Item,44:03.4,70,Processed,Maggi Noodles 70g,Snacks,21,50,4,1910,0,0,4,1910
+15882,10882,1029,13882,2023,Stale Product,34:03.4,385,Processed,Horlicks Classic Malt 1kg,Beverages,20,23,6,2165,0,0,6,2165
+10623,5623,1040,8623,2013,Damaged Item,26:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,13,9,6727,0,0,9,6727
+17233,12233,1024,15233,2054,Damaged Item,01:03.4,675,Processed,Bournvita 500g,Beverages,29,54,3,1865,0,0,3,1865
+9566,4566,1028,7566,2083,Stale Product,57:03.4,450,Processed,Catch Black Pepper 100g,Grocery,12,83,6,1740,0,0,6,1740
+14733,9733,1022,12733,2061,Damaged Item,32:03.4,480,Processed,Fortune Sunflower Oil 1L,Grocery,20,61,7,4815,0,0,7,4815
+13143,8143,1000,11143,2021,Stale Product,26:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,21,6,1647,0,0,6,1647
+10915,5915,1004,8915,2085,Stale Product,43:03.4,84,Processed,Tata Salt 1kg,Grocery,19,85,7,4247,0,0,7,4247
+11343,6343,1015,9343,2003,Damaged Item,45:03.4,575,Processed,Colgate Toothpaste 200g,Personal Care,22,3,6,2062,0,0,6,2062
+8213,3213,1015,6213,2087,Damaged Item,03:03.4,460,Processed,Colgate Toothpaste 200g,Personal Care,22,87,6,1715,0,0,6,1715
+11639,6639,1027,9639,2044,Stale Product,15:03.4,297,Processed,Real Mixed Fruit Juice 1L,Beverages,21,44,3,1977,0,0,3,1977
+9045,4045,1045,7045,2020,Damaged Item,54:03.4,320,Processed,Parle-G Biscuits 800g,Snacks,17,20,5,1194,0,0,5,1194
+17016,12016,1031,15016,2097,Stale Product,05:03.4,650,Processed,Himalaya Face Wash 100ml,Personal Care,19,97,7,3164,0,0,7,3164
+11097,6097,1021,9097,2012,Stale Product,37:03.4,2995,Processed,Patanjali Ghee 1L,Grocery,14,12,7,5165,0,0,7,5165
+14024,9024,1018,12024,2012,Damaged Item,32:03.4,950,Processed,Surf Excel Matic 1kg,Grocery,24,12,7,5165,0,0,7,5165
+13605,8605,1013,11605,2028,Damaged Item,40:03.4,840,Processed,Kellogg's Corn Flakes 500g,Grocery,21,28,4,1555,0,0,4,1555
+13571,8571,1012,11571,2066,Damaged Item,05:03.4,900,Processed,Saffola Gold Oil 1L,Grocery,17,66,7,3908,0,0,7,3908
+12132,7132,1006,10132,2024,Damaged Item,05:03.4,56,Processed,Maggi Noodles 70g,Snacks,21,24,4,630,0,0,4,630
+13193,8193,1010,11193,2004,Damaged Item,18:03.4,540,Processed,Golden Apples 1kg,Fruits,18,4,7,5781,0,0,7,5781
+14294,9294,1028,12294,2012,Stale Product,09:03.4,600,Processed,Catch Black Pepper 100g,Grocery,12,12,7,5165,0,0,7,5165
+12249,7249,1007,10249,2026,Stale Product,40:03.4,40,Processed,Lays Classic Salted 52g,Snacks,22,26,7,2930,0,0,7,2930
+15637,10637,1014,13637,2036,Stale Product,28:03.4,290,Processed,Dettol Handwash 750ml,Personal Care,13,36,7,2930,0,0,7,2930
+16330,11330,1046,14330,2078,Damaged Item,02:03.4,270,Processed,Sprite 2L,Beverages,21,78,3,490,0,0,3,490
+16309,11309,1034,14309,2045,Damaged Item,30:03.4,630,Processed,Lizol Floor Cleaner 1L,Grocery,23,45,5,2313,0,0,5,2313
+10565,5565,1016,8565,2073,Stale Product,19:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,73,7,2970,0,0,7,2970
+15026,10026,1019,13026,2055,Stale Product,39:03.4,398,Processed,Dabur Honey 500g,Grocery,18,55,6,1723,0,0,6,1723
+12729,7729,1041,10729,2032,Stale Product,15:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,32,3,1760,0,0,3,1760
+10368,5368,1029,8368,2061,Damaged Item,27:03.4,770,Processed,Horlicks Classic Malt 1kg,Beverages,20,61,7,4815,0,0,7,4815
+9790,4790,1030,7790,2049,Stale Product,00:03.4,525,Processed,Johnson's Baby Powder 400g,Personal Care,22,49,7,2340,0,0,7,2340
+11637,6637,1045,9637,2037,Damaged Item,11:03.4,80,Processed,Parle-G Biscuits 800g,Snacks,17,37,7,1860,0,0,7,1860
+11971,6971,1019,9971,2030,Stale Product,44:03.4,995,Processed,Dabur Honey 500g,Grocery,18,30,6,4292,0,0,6,4292
+17421,12421,1036,15421,2020,Damaged Item,15:03.4,260,Processed,Frooti Mango Drink 1L,Beverages,28,20,5,1194,0,0,5,1194
+12325,7325,1050,10325,2097,Stale Product,05:03.4,99,Processed,Dabur Red Toothpaste 200g,Personal Care,12,97,7,3164,0,0,7,3164
+12392,7392,1026,10392,2030,Stale Product,50:03.4,897,Processed,Gillette Mach3 Razor,Personal Care,16,30,6,4292,0,0,6,4292
+11194,6194,1049,9194,2094,Stale Product,29:03.4,240,Processed,Gillette Shaving Foam 200ml,Personal Care,21,94,4,1029,0,0,4,1029
+13927,8927,1035,11927,2064,Stale Product,40:03.4,90,Processed,Sprite 2L,Beverages,16,64,8,2990,0,0,8,2990
+15785,10785,1001,13785,2042,Stale Product,31:03.4,520,Processed,Amul Butter 500g,Dairy,27,42,6,2535,0,0,6,2535
+15088,10088,1027,13088,2053,Stale Product,30:03.4,99,Processed,Real Mixed Fruit Juice 1L,Beverages,21,53,7,3841,0,0,7,3841
+11702,6702,1025,9702,2076,Stale Product,44:03.4,225,Processed,Dove Soap 125g,Personal Care,21,76,5,1855,0,0,5,1855
+11178,6178,1046,9178,2071,Stale Product,40:03.4,360,Processed,Sprite 2L,Beverages,21,71,5,2285,0,0,5,2285
+17512,12512,1013,15512,2060,Stale Product,12:03.4,420,Processed,Kellogg's Corn Flakes 500g,Grocery,21,60,7,2869,0,0,7,2869
+9861,4861,1042,7861,2048,Damaged Item,07:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,48,6,3149,0,0,6,3149
+15120,10120,1000,13120,2074,Damaged Item,39:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,74,6,1628,0,0,6,1628
+11957,6957,1010,9957,2073,Damaged Item,14:03.4,720,Processed,Golden Apples 1kg,Fruits,18,73,7,2970,0,0,7,2970
+12883,7883,1025,10883,2021,Stale Product,17:03.4,135,Processed,Dove Soap 125g,Personal Care,21,21,6,1647,0,0,6,1647
+13431,8431,1024,11431,2030,Damaged Item,56:03.4,675,Processed,Bournvita 500g,Beverages,29,30,6,4292,0,0,6,4292
+16519,11519,1013,14519,2052,Damaged Item,56:03.4,840,Processed,Kellogg's Corn Flakes 500g,Grocery,21,52,3,3525,0,0,3,3525
+12646,7646,1000,10646,2097,Damaged Item,53:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,97,7,3164,0,0,7,3164
+17623,12623,1013,15623,2090,Stale Product,11:03.4,420,Processed,Kellogg's Corn Flakes 500g,Grocery,21,90,4,1091,0,0,4,1091
+14473,9473,1042,12473,2004,Damaged Item,39:03.4,720,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,4,7,5781,0,0,7,5781
+9961,4961,1018,7961,2091,Stale Product,48:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,91,9,2593,0,0,9,2593
+15393,10393,1047,13393,2096,Stale Product,41:03.4,1925,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,96,10,5020,0,0,10,5020
+11960,6960,1002,9960,2042,Stale Product,12:03.4,120,Processed,Mother Dairy Curd 400g,Dairy,17,42,6,2535,0,0,6,2535
+15917,10917,1014,13917,2002,Damaged Item,26:03.4,145,Processed,Dettol Handwash 750ml,Personal Care,13,2,5,2125,0,0,5,2125
+8657,3657,1046,6657,2022,Stale Product,55:03.4,90,Processed,Sprite 2L,Beverages,21,22,7,2100,0,0,7,2100
+9079,4079,1006,7079,2033,Stale Product,29:03.4,14,Processed,Maggi Noodles 70g,Snacks,21,33,5,1223,0,0,5,1223
+10916,5916,1036,8916,2097,Damaged Item,38:03.4,260,Processed,Frooti Mango Drink 1L,Beverages,28,97,7,3164,0,0,7,3164
+13756,8756,1021,11756,2075,Damaged Item,55:03.4,2995,Processed,Patanjali Ghee 1L,Grocery,14,75,4,833,0,0,4,833
+10964,5964,1043,8964,2067,Damaged Item,34:03.4,280,Processed,Good Day Butter Cookies 600g,Snacks,18,67,2,4193,0,0,2,4193
+16923,11923,1038,14923,2098,Stale Product,15:03.4,360,Processed,Coca-Cola 2L,Beverages,15,98,4,1865,0,0,4,1865
+15399,10399,1012,13399,2066,Stale Product,16:03.4,720,Processed,Saffola Gold Oil 1L,Grocery,17,66,7,3908,0,0,7,3908
+15982,10982,1000,13982,2084,Damaged Item,01:03.4,288,Processed,Amul Taaza Milk 1L,Dairy,29,84,3,2380,0,0,3,2380
+11216,6216,1000,9216,2091,Stale Product,59:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,91,9,2593,0,0,9,2593
+14285,9285,1020,12285,2047,Stale Product,05:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,47,5,1740,0,0,5,1740
+13037,8037,1000,11037,2034,Damaged Item,09:03.4,144,Processed,Amul Taaza Milk 1L,Dairy,29,34,4,2616,0,0,4,2616
+9447,4447,1030,7447,2072,Stale Product,22:03.4,525,Processed,Johnson's Baby Powder 400g,Personal Care,22,72,4,1415,0,0,4,1415
+11286,6286,1004,9286,2074,Stale Product,12:03.4,84,Processed,Tata Salt 1kg,Grocery,19,74,6,1628,0,0,6,1628
+17207,12207,1032,15207,2099,Damaged Item,04:03.4,960,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,99,1,950,0,0,1,950
+8197,3197,1032,6197,2009,Stale Product,30:03.4,640,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,9,5,2485,0,0,5,2485
+10807,5807,1042,8807,2058,Stale Product,03:03.4,360,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,58,5,2517,0,0,5,2517
+12039,7039,1016,10039,2059,Damaged Item,53:03.4,450,Processed,Nescafe Classic Coffee 100g,Beverages,21,59,5,2780,0,0,5,2780
+8837,3837,1034,6837,2053,Damaged Item,11:03.4,1050,Processed,Lizol Floor Cleaner 1L,Grocery,23,53,7,3841,0,0,7,3841
+8653,3653,1009,6653,2032,Damaged Item,38:03.4,35,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,32,3,1760,0,0,3,1760
+14604,9604,1008,12604,2028,Damaged Item,16:03.4,300,Processed,Britannia Good Day Cashew 600g,Snacks,19,28,4,1555,0,0,4,1555
+13346,8346,1003,11346,2000,Stale Product,59:03.4,765,Processed,Aashirvaad Atta 5kg,Grocery,18,0,5,4235,0,0,5,4235
+8243,3243,1030,6243,2005,Damaged Item,14:03.4,700,Processed,Johnson's Baby Powder 400g,Personal Care,22,5,4,3535,0,0,4,3535
+16406,11406,1028,14406,2095,Damaged Item,57:03.4,600,Processed,Catch Black Pepper 100g,Grocery,12,95,4,1995,0,0,4,1995
+9355,4355,1028,7355,2021,Stale Product,48:03.4,300,Processed,Catch Black Pepper 100g,Grocery,12,21,6,1647,0,0,6,1647
+15582,10582,1041,13582,2029,Damaged Item,13:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,29,9,4345,0,0,9,4345
+12140,7140,1038,10140,2069,Stale Product,11:03.4,360,Processed,Coca-Cola 2L,Beverages,15,69,4,2970,0,0,4,2970
+17010,12010,1009,15010,2020,Stale Product,10:03.4,175,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,20,5,1194,0,0,5,1194
+10019,5019,1006,8019,2063,Stale Product,27:03.4,56,Processed,Maggi Noodles 70g,Snacks,21,63,6,1962,0,0,6,1962
+14323,9323,1048,12323,2093,Damaged Item,37:03.4,110,Processed,Real Orange Juice 1L,Beverages,17,93,2,850,0,0,2,850
+17586,12586,1046,15586,2012,Damaged Item,03:03.4,270,Processed,Sprite 2L,Beverages,21,12,7,5165,0,0,7,5165
+16173,11173,1004,14173,2031,Damaged Item,16:03.4,84,Processed,Tata Salt 1kg,Grocery,19,31,5,1800,0,0,5,1800
+12634,7634,1042,10634,2045,Damaged Item,22:03.4,540,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,45,5,2313,0,0,5,2313
+14466,9466,1007,12466,2036,Stale Product,30:03.4,100,Processed,Lays Classic Salted 52g,Snacks,22,36,7,2930,0,0,7,2930
+11780,6780,1027,9780,2007,Damaged Item,08:03.4,198,Processed,Real Mixed Fruit Juice 1L,Beverages,21,7,5,1545,0,0,5,1545
+16106,11106,1020,14106,2000,Damaged Item,06:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,0,5,4235,0,0,5,4235
+10359,5359,1049,8359,2058,Stale Product,11:03.4,960,Processed,Gillette Shaving Foam 200ml,Personal Care,21,58,5,2517,0,0,5,2517
+12193,7193,1002,10193,2097,Damaged Item,36:03.4,80,Processed,Mother Dairy Curd 400g,Dairy,17,97,7,3164,0,0,7,3164
+14179,9179,1024,12179,2019,Stale Product,16:03.4,225,Processed,Bournvita 500g,Beverages,29,19,9,3970,0,0,9,3970
+12727,7727,1018,10727,2060,Damaged Item,11:03.4,950,Processed,Surf Excel Matic 1kg,Grocery,24,60,7,2869,0,0,7,2869
+10756,5756,1013,8756,2096,Stale Product,53:03.4,630,Processed,Kellogg's Corn Flakes 500g,Grocery,21,96,10,5020,0,0,10,5020
+16767,11767,1039,14767,2089,Damaged Item,49:03.4,440,Processed,Eveready AA Batteries (4 pcs),Electronics,20,89,4,1540,0,0,4,1540
+12532,7532,1027,10532,2086,Damaged Item,55:03.4,198,Processed,Real Mixed Fruit Juice 1L,Beverages,21,86,6,1710,0,0,6,1710
+12150,7150,1018,10150,2089,Stale Product,38:03.4,380,Processed,Surf Excel Matic 1kg,Grocery,24,89,4,1540,0,0,4,1540
+10252,5252,1024,8252,2047,Stale Product,47:03.4,225,Processed,Bournvita 500g,Beverages,29,47,5,1740,0,0,5,1740
+17735,12735,1005,15735,2040,Damaged Item,33:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,40,4,900,0,0,4,900
+13765,8765,1006,11765,2033,Stale Product,56:03.4,14,Processed,Maggi Noodles 70g,Snacks,21,33,5,1223,0,0,5,1223
+15480,10480,1007,13480,2037,Stale Product,11:03.4,40,Processed,Lays Classic Salted 52g,Snacks,22,37,7,1860,0,0,7,1860
+16077,11077,1005,14077,2032,Damaged Item,59:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,32,3,1760,0,0,3,1760
+15912,10912,1011,13912,2065,Stale Product,58:03.4,60,Processed,Bananas (12 pcs),Fruits,19,65,6,1116,0,0,6,1116
+12749,7749,1041,10749,2050,Damaged Item,49:03.4,825,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,50,4,1910,0,0,4,1910
+13785,8785,1044,11785,2071,Stale Product,32:03.4,680,Processed,Brooke Bond Red Label 500g,Beverages,18,71,5,2285,0,0,5,2285
+8505,3505,1000,6505,2091,Stale Product,13:03.4,288,Processed,Amul Taaza Milk 1L,Dairy,29,91,9,2593,0,0,9,2593
+16016,11016,1033,14016,2064,Stale Product,20:03.4,85,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,64,8,2990,0,0,8,2990
+17342,12342,1018,15342,2062,Stale Product,31:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,62,3,1080,0,0,3,1080
+12335,7335,1015,10335,2066,Stale Product,54:03.4,575,Processed,Colgate Toothpaste 200g,Personal Care,22,66,7,3908,0,0,7,3908
+17969,12969,1048,15969,2092,Damaged Item,48:03.4,330,Processed,Real Orange Juice 1L,Beverages,17,92,6,3391,0,0,6,3391
+16377,11377,1050,14377,2018,Damaged Item,15:03.4,396,Processed,Dabur Red Toothpaste 200g,Personal Care,12,18,9,4243,0,0,9,4243
+8986,3986,1030,6986,2099,Damaged Item,23:03.4,700,Processed,Johnson's Baby Powder 400g,Personal Care,22,99,1,950,0,0,1,950
+9754,4754,1022,7754,2066,Damaged Item,35:03.4,320,Processed,Fortune Sunflower Oil 1L,Grocery,20,66,7,3908,0,0,7,3908
+9251,4251,1048,7251,2019,Stale Product,39:03.4,110,Processed,Real Orange Juice 1L,Beverages,17,19,9,3970,0,0,9,3970
+16461,11461,1046,14461,2047,Stale Product,08:03.4,450,Processed,Sprite 2L,Beverages,21,47,5,1740,0,0,5,1740
+9457,4457,1045,7457,2048,Damaged Item,20:03.4,80,Processed,Parle-G Biscuits 800g,Snacks,17,48,6,3149,0,0,6,3149
+12153,7153,1024,10153,2073,Damaged Item,29:03.4,900,Processed,Bournvita 500g,Beverages,29,73,7,2970,0,0,7,2970
+17892,12892,1034,15892,2074,Damaged Item,13:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,74,6,1628,0,0,6,1628
+9151,4151,1043,7151,2063,Damaged Item,51:03.4,700,Processed,Good Day Butter Cookies 600g,Snacks,18,63,6,1962,0,0,6,1962
+14611,9611,1011,12611,2087,Stale Product,50:03.4,60,Processed,Bananas (12 pcs),Fruits,19,87,6,1715,0,0,6,1715
+14988,9988,1016,12988,2065,Damaged Item,40:03.4,450,Processed,Nescafe Classic Coffee 100g,Beverages,21,65,6,1116,0,0,6,1116
+13280,8280,1003,11280,2016,Stale Product,00:03.4,510,Processed,Aashirvaad Atta 5kg,Grocery,18,16,10,5503,0,0,10,5503
+10171,5171,1015,8171,2045,Damaged Item,57:03.4,345,Processed,Colgate Toothpaste 200g,Personal Care,22,45,5,2313,0,0,5,2313
+17071,12071,1035,15071,2085,Stale Product,01:03.4,90,Processed,Sprite 2L,Beverages,16,85,7,4247,0,0,7,4247
+10226,5226,1020,8226,2041,Stale Product,51:03.4,320,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,41,4,1299,0,0,4,1299
+15029,10029,1040,13029,2040,Damaged Item,59:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,40,4,900,0,0,4,900
+14136,9136,1007,12136,2073,Stale Product,15:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,73,7,2970,0,0,7,2970
+13975,8975,1046,11975,2021,Stale Product,07:03.4,270,Processed,Sprite 2L,Beverages,21,21,6,1647,0,0,6,1647
+13287,8287,1014,11287,2083,Stale Product,01:03.4,290,Processed,Dettol Handwash 750ml,Personal Care,13,83,6,1740,0,0,6,1740
+15593,10593,1047,13593,2048,Stale Product,02:03.4,770,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,48,6,3149,0,0,6,3149
+8573,3573,1041,6573,2018,Stale Product,12:03.4,275,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,18,9,4243,0,0,9,4243
+16973,11973,1006,14973,2069,Damaged Item,06:03.4,28,Processed,Maggi Noodles 70g,Snacks,21,69,4,2970,0,0,4,2970
+13920,8920,1004,11920,2017,Damaged Item,00:03.4,112,Processed,Tata Salt 1kg,Grocery,19,17,1,200,0,0,1,200
+10030,5030,1029,8030,2025,Damaged Item,51:03.4,1540,Processed,Horlicks Classic Malt 1kg,Beverages,20,25,2,2020,0,0,2,2020
+11689,6689,1023,9689,2080,Stale Product,04:03.4,540,Processed,Haldiram's Bhujia 400g,Snacks,23,80,6,1450,0,0,6,1450
+14088,9088,1042,12088,2008,Stale Product,43:03.4,360,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,8,8,4080,0,0,8,4080
+10065,5065,1000,8065,2001,Damaged Item,45:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,1,3,1461,0,0,3,1461
+12143,7143,1049,10143,2029,Damaged Item,44:03.4,960,Processed,Gillette Shaving Foam 200ml,Personal Care,21,29,9,4345,0,0,9,4345
+8558,3558,1000,6558,2014,Damaged Item,04:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,14,4,1800,0,0,4,1800
+9458,4458,1045,7458,2074,Stale Product,22:03.4,400,Processed,Parle-G Biscuits 800g,Snacks,17,74,6,1628,0,0,6,1628
+14530,9530,1032,12530,2051,Stale Product,39:03.4,320,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,51,5,1625,0,0,5,1625
+17612,12612,1002,15612,2064,Stale Product,36:03.4,160,Processed,Mother Dairy Curd 400g,Dairy,17,64,8,2990,0,0,8,2990
+9713,4713,1030,7713,2095,Stale Product,14:03.4,875,Processed,Johnson's Baby Powder 400g,Personal Care,22,95,4,1995,0,0,4,1995
+17476,12476,1027,15476,2021,Stale Product,17:03.4,396,Processed,Real Mixed Fruit Juice 1L,Beverages,21,21,6,1647,0,0,6,1647
+10071,5071,1028,8071,2037,Stale Product,36:03.4,450,Processed,Catch Black Pepper 100g,Grocery,12,37,7,1860,0,0,7,1860
+16713,11713,1029,14713,2013,Damaged Item,04:03.4,770,Processed,Horlicks Classic Malt 1kg,Beverages,20,13,9,6727,0,0,9,6727
+14482,9482,1039,12482,2061,Damaged Item,33:03.4,110,Processed,Eveready AA Batteries (4 pcs),Electronics,20,61,7,4815,0,0,7,4815
+10334,5334,1016,8334,2074,Stale Product,54:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,74,6,1628,0,0,6,1628
+16515,11515,1031,14515,2015,Damaged Item,58:03.4,260,Processed,Himalaya Face Wash 100ml,Personal Care,19,15,6,3065,0,0,6,3065
+15309,10309,1012,13309,2013,Damaged Item,14:03.4,360,Processed,Saffola Gold Oil 1L,Grocery,17,13,9,6727,0,0,9,6727
+16293,11293,1001,14293,2012,Damaged Item,09:03.4,520,Processed,Amul Butter 500g,Dairy,27,12,7,5165,0,0,7,5165
+17913,12913,1045,15913,2027,Damaged Item,11:03.4,240,Processed,Parle-G Biscuits 800g,Snacks,17,27,4,1655,0,0,4,1655
+8224,3224,1042,6224,2056,Damaged Item,10:03.4,360,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,56,7,3594,0,0,7,3594
+13171,8171,1005,11171,2075,Stale Product,25:03.4,360,Processed,India Gate Basmati Rice 1kg,Grocery,18,75,4,833,0,0,4,833
+15395,10395,1009,13395,2083,Stale Product,02:03.4,35,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,83,6,1740,0,0,6,1740
+15337,10337,1018,13337,2035,Stale Product,00:03.4,190,Processed,Surf Excel Matic 1kg,Grocery,24,35,3,1345,0,0,3,1345
+8792,3792,1009,6792,2077,Stale Product,19:03.4,140,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,77,6,3711,0,0,6,3711
+13887,8887,1017,11887,2047,Damaged Item,09:03.4,720,Processed,Tata Tea Premium 500g,Beverages,12,47,5,1740,0,0,5,1740
+17930,12930,1032,15930,2097,Damaged Item,41:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,97,7,3164,0,0,7,3164
+8442,3442,1015,6442,2048,Damaged Item,17:03.4,230,Processed,Colgate Toothpaste 200g,Personal Care,22,48,6,3149,0,0,6,3149
+14998,9998,1034,12998,2037,Damaged Item,09:03.4,420,Processed,Lizol Floor Cleaner 1L,Grocery,23,37,7,1860,0,0,7,1860
+12229,7229,1029,10229,2078,Damaged Item,10:03.4,1155,Processed,Horlicks Classic Malt 1kg,Beverages,20,78,3,490,0,0,3,490
+10845,5845,1019,8845,2008,Stale Product,12:03.4,995,Processed,Dabur Honey 500g,Grocery,18,8,8,4080,0,0,8,4080
+9010,4010,1007,7010,2064,Damaged Item,40:03.4,80,Processed,Lays Classic Salted 52g,Snacks,22,64,8,2990,0,0,8,2990
+10101,5101,1040,8101,2009,Stale Product,48:03.4,320,Processed,Sensodyne Toothpaste 100g,Personal Care,23,9,5,2485,0,0,5,2485
+12916,7916,1034,10916,2038,Stale Product,24:03.4,1050,Processed,Lizol Floor Cleaner 1L,Grocery,23,38,3,1595,0,0,3,1595
+10003,5003,1033,8003,2079,Damaged Item,27:03.4,340,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,79,3,2255,0,0,3,2255
+8707,3707,1042,6707,2029,Damaged Item,21:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,29,9,4345,0,0,9,4345
+9040,4040,1023,7040,2087,Damaged Item,36:03.4,540,Processed,Haldiram's Bhujia 400g,Snacks,23,87,6,1715,0,0,6,1715
+17041,12041,1018,15041,2009,Stale Product,21:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,9,5,2485,0,0,5,2485
+17000,12000,1023,15000,2035,Damaged Item,00:03.4,270,Processed,Haldiram's Bhujia 400g,Snacks,23,35,3,1345,0,0,3,1345
+12614,7614,1040,10614,2079,Stale Product,56:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,79,3,2255,0,0,3,2255
+15748,10748,1031,13748,2020,Stale Product,15:03.4,390,Processed,Himalaya Face Wash 100ml,Personal Care,19,20,5,1194,0,0,5,1194
+12508,7508,1001,10508,2007,Damaged Item,31:03.4,260,Processed,Amul Butter 500g,Dairy,27,7,5,1545,0,0,5,1545
+13185,8185,1045,11185,2089,Stale Product,44:03.4,80,Processed,Parle-G Biscuits 800g,Snacks,17,89,4,1540,0,0,4,1540
+15381,10381,1030,13381,2073,Stale Product,01:03.4,350,Processed,Johnson's Baby Powder 400g,Personal Care,22,73,7,2970,0,0,7,2970
+9901,4901,1030,7901,2041,Damaged Item,24:03.4,350,Processed,Johnson's Baby Powder 400g,Personal Care,22,41,4,1299,0,0,4,1299
+12121,7121,1001,10121,2004,Stale Product,09:03.4,520,Processed,Amul Butter 500g,Dairy,27,4,7,5781,0,0,7,5781
+15782,10782,1048,13782,2040,Damaged Item,16:03.4,440,Processed,Real Orange Juice 1L,Beverages,17,40,4,900,0,0,4,900
+12399,7399,1043,10399,2098,Stale Product,24:03.4,700,Processed,Good Day Butter Cookies 600g,Snacks,18,98,4,1865,0,0,4,1865
+9973,4973,1034,7973,2023,Stale Product,27:03.4,420,Processed,Lizol Floor Cleaner 1L,Grocery,23,23,6,2165,0,0,6,2165
+13127,8127,1046,11127,2023,Stale Product,48:03.4,90,Processed,Sprite 2L,Beverages,21,23,6,2165,0,0,6,2165
+12873,7873,1016,10873,2086,Stale Product,07:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,86,6,1710,0,0,6,1710
+12005,7005,1016,10005,2091,Damaged Item,14:03.4,600,Processed,Nescafe Classic Coffee 100g,Beverages,21,91,9,2593,0,0,9,2593
+14003,9003,1031,12003,2080,Stale Product,37:03.4,130,Processed,Himalaya Face Wash 100ml,Personal Care,19,80,6,1450,0,0,6,1450
+13461,8461,1011,11461,2004,Stale Product,04:03.4,60,Processed,Bananas (12 pcs),Fruits,19,4,7,5781,0,0,7,5781
+15658,10658,1003,13658,2003,Damaged Item,24:03.4,1020,Processed,Aashirvaad Atta 5kg,Grocery,18,3,6,2062,0,0,6,2062
+17084,12084,1034,15084,2016,Stale Product,45:03.4,420,Processed,Lizol Floor Cleaner 1L,Grocery,23,16,10,5503,0,0,10,5503
+9054,4054,1004,7054,2074,Stale Product,58:03.4,84,Processed,Tata Salt 1kg,Grocery,19,74,6,1628,0,0,6,1628
+14977,9977,1023,12977,2030,Damaged Item,32:03.4,540,Processed,Haldiram's Bhujia 400g,Snacks,23,30,6,4292,0,0,6,4292
+17859,12859,1017,15859,2016,Damaged Item,48:03.4,720,Processed,Tata Tea Premium 500g,Beverages,12,16,10,5503,0,0,10,5503
+13234,8234,1048,11234,2070,Damaged Item,53:03.4,550,Processed,Real Orange Juice 1L,Beverages,17,70,5,4551,0,0,5,4551
+10735,5735,1029,8735,2078,Damaged Item,44:03.4,770,Processed,Horlicks Classic Malt 1kg,Beverages,20,78,3,490,0,0,3,490
+14505,9505,1009,12505,2073,Damaged Item,33:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,73,7,2970,0,0,7,2970
+9916,4916,1040,7916,2078,Stale Product,06:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,78,3,490,0,0,3,490
+16108,11108,1042,14108,2023,Damaged Item,41:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,23,6,2165,0,0,6,2165
+15571,10571,1034,13571,2016,Damaged Item,35:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,16,10,5503,0,0,10,5503
+14660,9660,1000,12660,2009,Stale Product,23:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,9,5,2485,0,0,5,2485
+12819,7819,1003,10819,2009,Damaged Item,52:03.4,255,Processed,Aashirvaad Atta 5kg,Grocery,18,9,5,2485,0,0,5,2485
+17383,12383,1024,15383,2038,Damaged Item,12:03.4,450,Processed,Bournvita 500g,Beverages,29,38,3,1595,0,0,3,1595
+13415,8415,1011,11415,2084,Stale Product,38:03.4,180,Processed,Bananas (12 pcs),Fruits,19,84,3,2380,0,0,3,2380
+16613,11613,1015,14613,2065,Stale Product,37:03.4,575,Processed,Colgate Toothpaste 200g,Personal Care,22,65,6,1116,0,0,6,1116
+10586,5586,1033,8586,2085,Stale Product,50:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,85,7,4247,0,0,7,4247
+17862,12862,1044,15862,2048,Damaged Item,37:03.4,680,Processed,Brooke Bond Red Label 500g,Beverages,18,48,6,3149,0,0,6,3149
+15221,10221,1047,13221,2004,Stale Product,23:03.4,1925,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,4,7,5781,0,0,7,5781
+10316,5316,1045,8316,2013,Stale Product,57:03.4,320,Processed,Parle-G Biscuits 800g,Snacks,17,13,9,6727,0,0,9,6727
+16486,11486,1026,14486,2094,Damaged Item,59:03.4,1495,Processed,Gillette Mach3 Razor,Personal Care,16,94,4,1029,0,0,4,1029
+14922,9922,1011,12922,2063,Damaged Item,52:03.4,300,Processed,Bananas (12 pcs),Fruits,19,63,6,1962,0,0,6,1962
+16727,11727,1005,14727,2015,Damaged Item,33:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,15,6,3065,0,0,6,3065
+12880,7880,1016,10880,2088,Stale Product,17:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,88,4,1738,0,0,4,1738
+15867,10867,1036,13867,2098,Damaged Item,53:03.4,195,Processed,Frooti Mango Drink 1L,Beverages,28,98,4,1865,0,0,4,1865
+15136,10136,1033,13136,2004,Damaged Item,29:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,4,7,5781,0,0,7,5781
+14242,9242,1049,12242,2030,Stale Product,43:03.4,960,Processed,Gillette Shaving Foam 200ml,Personal Care,21,30,6,4292,0,0,6,4292
+16391,11391,1041,14391,2001,Damaged Item,08:03.4,275,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,1,3,1461,0,0,3,1461
+17374,12374,1013,15374,2026,Stale Product,01:03.4,420,Processed,Kellogg's Corn Flakes 500g,Grocery,21,26,7,2930,0,0,7,2930
+14015,9015,1004,12015,2058,Damaged Item,16:03.4,56,Processed,Tata Salt 1kg,Grocery,19,58,5,2517,0,0,5,2517
+9971,4971,1010,7971,2032,Damaged Item,39:03.4,900,Processed,Golden Apples 1kg,Fruits,18,32,3,1760,0,0,3,1760
+11848,6848,1008,9848,2002,Stale Product,14:03.4,600,Processed,Britannia Good Day Cashew 600g,Snacks,19,2,5,2125,0,0,5,2125
+14546,9546,1016,12546,2017,Damaged Item,00:03.4,600,Processed,Nescafe Classic Coffee 100g,Beverages,21,17,1,200,0,0,1,200
+15635,10635,1034,13635,2088,Damaged Item,04:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,88,4,1738,0,0,4,1738
+9157,4157,1010,7157,2091,Stale Product,38:03.4,180,Processed,Golden Apples 1kg,Fruits,18,91,9,2593,0,0,9,2593
+10002,5002,1022,8002,2062,Stale Product,27:03.4,160,Processed,Fortune Sunflower Oil 1L,Grocery,20,62,3,1080,0,0,3,1080
+16779,11779,1024,14779,2087,Damaged Item,01:03.4,675,Processed,Bournvita 500g,Beverages,29,87,6,1715,0,0,6,1715
+17115,12115,1000,15115,2065,Damaged Item,36:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,65,6,1116,0,0,6,1116
+14515,9515,1043,12515,2079,Damaged Item,49:03.4,700,Processed,Good Day Butter Cookies 600g,Snacks,18,79,3,2255,0,0,3,2255
+8872,3872,1046,6872,2005,Damaged Item,25:03.4,180,Processed,Sprite 2L,Beverages,21,5,4,3535,0,0,4,3535
+17036,12036,1018,15036,2099,Damaged Item,20:03.4,190,Processed,Surf Excel Matic 1kg,Grocery,24,99,1,950,0,0,1,950
+12802,7802,1035,10802,2055,Stale Product,05:03.4,270,Processed,Sprite 2L,Beverages,16,55,6,1723,0,0,6,1723
+11775,6775,1039,9775,2021,Stale Product,17:03.4,330,Processed,Eveready AA Batteries (4 pcs),Electronics,20,21,6,1647,0,0,6,1647
+14519,9519,1009,12519,2029,Stale Product,14:03.4,70,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,29,9,4345,0,0,9,4345
+15590,10590,1032,13590,2060,Stale Product,40:03.4,320,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,60,7,2869,0,0,7,2869
+15131,10131,1018,13131,2071,Damaged Item,37:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,71,5,2285,0,0,5,2285
+12344,7344,1025,10344,2079,Damaged Item,06:03.4,45,Processed,Dove Soap 125g,Personal Care,21,79,3,2255,0,0,3,2255
+9122,4122,1046,7122,2099,Damaged Item,17:03.4,450,Processed,Sprite 2L,Beverages,21,99,1,950,0,0,1,950
+16868,11868,1044,14868,2018,Stale Product,18:03.4,340,Processed,Brooke Bond Red Label 500g,Beverages,18,18,9,4243,0,0,9,4243
+11872,6872,1027,9872,2049,Stale Product,21:03.4,495,Processed,Real Mixed Fruit Juice 1L,Beverages,21,49,7,2340,0,0,7,2340
+17959,12959,1032,15959,2019,Stale Product,26:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,19,9,3970,0,0,9,3970
+12994,7994,1015,10994,2008,Damaged Item,33:03.4,115,Processed,Colgate Toothpaste 200g,Personal Care,22,8,8,4080,0,0,8,4080
+9944,4944,1031,7944,2066,Damaged Item,01:03.4,520,Processed,Himalaya Face Wash 100ml,Personal Care,19,66,7,3908,0,0,7,3908
+12391,7391,1007,10391,2098,Stale Product,02:03.4,80,Processed,Lays Classic Salted 52g,Snacks,22,98,4,1865,0,0,4,1865
+8023,3023,1044,6023,2068,Stale Product,52:03.4,170,Processed,Brooke Bond Red Label 500g,Beverages,18,68,1,170,0,0,1,170
+9915,4915,1033,7915,2053,Damaged Item,58:03.4,85,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,53,7,3841,0,0,7,3841
+10799,5799,1009,8799,2045,Damaged Item,06:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,45,5,2313,0,0,5,2313
+15545,10545,1048,13545,2010,Stale Product,33:03.4,220,Processed,Real Orange Juice 1L,Beverages,17,10,10,5120,0,0,10,5120
+11174,6174,1038,9174,2078,Stale Product,58:03.4,90,Processed,Coca-Cola 2L,Beverages,15,78,3,490,0,0,3,490
+11746,6746,1015,9746,2051,Stale Product,57:03.4,115,Processed,Colgate Toothpaste 200g,Personal Care,22,51,5,1625,0,0,5,1625
+16127,11127,1025,14127,2091,Damaged Item,51:03.4,225,Processed,Dove Soap 125g,Personal Care,21,91,9,2593,0,0,9,2593
+14879,9879,1013,12879,2053,Stale Product,15:03.4,210,Processed,Kellogg's Corn Flakes 500g,Grocery,21,53,7,3841,0,0,7,3841
+12474,7474,1041,10474,2034,Damaged Item,39:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,34,4,2616,0,0,4,2616
+9127,4127,1012,7127,2007,Damaged Item,30:03.4,180,Processed,Saffola Gold Oil 1L,Grocery,17,7,5,1545,0,0,5,1545
+12868,7868,1024,10868,2036,Stale Product,44:03.4,1125,Processed,Bournvita 500g,Beverages,29,36,7,2930,0,0,7,2930
+8344,3344,1012,6344,2007,Stale Product,27:03.4,540,Processed,Saffola Gold Oil 1L,Grocery,17,7,5,1545,0,0,5,1545
+10322,5322,1016,8322,2006,Damaged Item,11:03.4,600,Processed,Nescafe Classic Coffee 100g,Beverages,21,6,7,2491,0,0,7,2491
+12413,7413,1008,10413,2013,Damaged Item,34:03.4,150,Processed,Britannia Good Day Cashew 600g,Snacks,19,13,9,6727,0,0,9,6727
+8629,3629,1008,6629,2014,Stale Product,19:03.4,300,Processed,Britannia Good Day Cashew 600g,Snacks,19,14,4,1800,0,0,4,1800
+12165,7165,1013,10165,2091,Damaged Item,49:03.4,210,Processed,Kellogg's Corn Flakes 500g,Grocery,21,91,9,2593,0,0,9,2593
+12985,7985,1036,10985,2095,Stale Product,44:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,95,4,1995,0,0,4,1995
+15018,10018,1039,13018,2020,Damaged Item,44:03.4,110,Processed,Eveready AA Batteries (4 pcs),Electronics,20,20,5,1194,0,0,5,1194
+11815,6815,1040,9815,2014,Damaged Item,38:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,14,4,1800,0,0,4,1800
+8904,3904,1044,6904,2092,Stale Product,42:03.4,850,Processed,Brooke Bond Red Label 500g,Beverages,18,92,6,3391,0,0,6,3391
+9290,4290,1026,7290,2011,Stale Product,42:03.4,1495,Processed,Gillette Mach3 Razor,Personal Care,16,11,6,4745,0,0,6,4745
+17330,12330,1027,15330,2003,Stale Product,20:03.4,297,Processed,Real Mixed Fruit Juice 1L,Beverages,21,3,6,2062,0,0,6,2062
+15376,10376,1028,13376,2045,Damaged Item,00:03.4,300,Processed,Catch Black Pepper 100g,Grocery,12,45,5,2313,0,0,5,2313
+9657,4657,1038,7657,2017,Damaged Item,36:03.4,180,Processed,Coca-Cola 2L,Beverages,15,17,1,200,0,0,1,200
+9618,4618,1013,7618,2028,Damaged Item,24:03.4,840,Processed,Kellogg's Corn Flakes 500g,Grocery,21,28,4,1555,0,0,4,1555
+9592,4592,1026,7592,2064,Stale Product,42:03.4,1495,Processed,Gillette Mach3 Razor,Personal Care,16,64,8,2990,0,0,8,2990
+11694,6694,1027,9694,2071,Stale Product,15:03.4,495,Processed,Real Mixed Fruit Juice 1L,Beverages,21,71,5,2285,0,0,5,2285
+10290,5290,1006,8290,2015,Stale Product,31:03.4,70,Processed,Maggi Noodles 70g,Snacks,21,15,6,3065,0,0,6,3065
+9062,4062,1042,7062,2037,Stale Product,07:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,37,7,1860,0,0,7,1860
+10999,5999,1011,8999,2018,Damaged Item,38:03.4,300,Processed,Bananas (12 pcs),Fruits,19,18,9,4243,0,0,9,4243
+8369,3369,1049,6369,2029,Damaged Item,32:03.4,240,Processed,Gillette Shaving Foam 200ml,Personal Care,21,29,9,4345,0,0,9,4345
+16551,11551,1015,14551,2041,Damaged Item,16:03.4,115,Processed,Colgate Toothpaste 200g,Personal Care,22,41,4,1299,0,0,4,1299
+17657,12657,1031,15657,2093,Stale Product,52:03.4,130,Processed,Himalaya Face Wash 100ml,Personal Care,19,93,2,850,0,0,2,850
+11140,6140,1011,9140,2001,Stale Product,19:03.4,240,Processed,Bananas (12 pcs),Fruits,19,1,3,1461,0,0,3,1461
+17314,12314,1003,15314,2020,Damaged Item,27:03.4,255,Processed,Aashirvaad Atta 5kg,Grocery,18,20,5,1194,0,0,5,1194
+16230,11230,1033,14230,2035,Stale Product,13:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,35,3,1345,0,0,3,1345
+13681,8681,1005,11681,2017,Damaged Item,43:03.4,900,Processed,India Gate Basmati Rice 1kg,Grocery,18,17,1,200,0,0,1,200
+8142,3142,1036,6142,2087,Stale Product,07:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,87,6,1715,0,0,6,1715
+14013,9013,1040,12013,2027,Stale Product,40:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,27,4,1655,0,0,4,1655
+10225,5225,1027,8225,2081,Stale Product,31:03.4,99,Processed,Real Mixed Fruit Juice 1L,Beverages,21,81,9,4529,0,0,9,4529
+11383,6383,1016,9383,2030,Stale Product,57:03.4,750,Processed,Nescafe Classic Coffee 100g,Beverages,21,30,6,4292,0,0,6,4292
+14600,9600,1018,12600,2010,Stale Product,34:03.4,380,Processed,Surf Excel Matic 1kg,Grocery,24,10,10,5120,0,0,10,5120
+15930,10930,1014,13930,2040,Damaged Item,47:03.4,290,Processed,Dettol Handwash 750ml,Personal Care,13,40,4,900,0,0,4,900
+12101,7101,1027,10101,2004,Damaged Item,34:03.4,198,Processed,Real Mixed Fruit Juice 1L,Beverages,21,4,7,5781,0,0,7,5781
+15776,10776,1007,13776,2049,Stale Product,06:03.4,100,Processed,Lays Classic Salted 52g,Snacks,22,49,7,2340,0,0,7,2340
+8888,3888,1000,6888,2081,Stale Product,52:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,81,9,4529,0,0,9,4529
+8357,3357,1008,6357,2055,Stale Product,25:03.4,600,Processed,Britannia Good Day Cashew 600g,Snacks,19,55,6,1723,0,0,6,1723
+9793,4793,1008,7793,2032,Damaged Item,41:03.4,600,Processed,Britannia Good Day Cashew 600g,Snacks,19,32,3,1760,0,0,3,1760
+11161,6161,1014,9161,2071,Damaged Item,40:03.4,145,Processed,Dettol Handwash 750ml,Personal Care,13,71,5,2285,0,0,5,2285
+16234,11234,1015,14234,2039,Stale Product,24:03.4,230,Processed,Colgate Toothpaste 200g,Personal Care,22,39,5,3560,0,0,5,3560
+10294,5294,1019,8294,2044,Damaged Item,32:03.4,398,Processed,Dabur Honey 500g,Grocery,18,44,3,1977,0,0,3,1977
+13325,8325,1037,11325,2084,Stale Product,49:03.4,1750,Processed,Dabur Chyawanprash 1kg,Health,10,84,3,2380,0,0,3,2380
+12613,7613,1004,10613,2081,Damaged Item,11:03.4,56,Processed,Tata Salt 1kg,Grocery,19,81,9,4529,0,0,9,4529
+15489,10489,1027,13489,2022,Damaged Item,20:03.4,297,Processed,Real Mixed Fruit Juice 1L,Beverages,21,22,7,2100,0,0,7,2100
+17439,12439,1013,15439,2060,Stale Product,37:03.4,210,Processed,Kellogg's Corn Flakes 500g,Grocery,21,60,7,2869,0,0,7,2869
+14576,9576,1049,12576,2014,Stale Product,09:03.4,960,Processed,Gillette Shaving Foam 200ml,Personal Care,21,14,4,1800,0,0,4,1800
+15947,10947,1045,13947,2004,Stale Product,36:03.4,320,Processed,Parle-G Biscuits 800g,Snacks,17,4,7,5781,0,0,7,5781
+9708,4708,1011,7708,2072,Stale Product,35:03.4,120,Processed,Bananas (12 pcs),Fruits,19,72,4,1415,0,0,4,1415
+8143,3143,1008,6143,2087,Stale Product,45:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,87,6,1715,0,0,6,1715
+9701,4701,1043,7701,2060,Stale Product,17:03.4,280,Processed,Good Day Butter Cookies 600g,Snacks,18,60,7,2869,0,0,7,2869
+10674,5674,1006,8674,2055,Stale Product,34:03.4,70,Processed,Maggi Noodles 70g,Snacks,21,55,6,1723,0,0,6,1723
+11912,6912,1002,9912,2024,Stale Product,15:03.4,120,Processed,Mother Dairy Curd 400g,Dairy,17,24,4,630,0,0,4,630
+17043,12043,1021,15043,2067,Stale Product,18:03.4,2995,Processed,Patanjali Ghee 1L,Grocery,14,67,2,4193,0,0,2,4193
+13792,8792,1047,11792,2076,Stale Product,02:03.4,770,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,76,5,1855,0,0,5,1855
+17818,12818,1009,15818,2002,Stale Product,59:03.4,35,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,2,5,2125,0,0,5,2125
+14284,9284,1013,12284,2054,Damaged Item,06:03.4,420,Processed,Kellogg's Corn Flakes 500g,Grocery,21,54,3,1865,0,0,3,1865
+14959,9959,1024,12959,2018,Stale Product,08:03.4,450,Processed,Bournvita 500g,Beverages,29,18,9,4243,0,0,9,4243
+8214,3214,1046,6214,2077,Damaged Item,38:03.4,270,Processed,Sprite 2L,Beverages,21,77,6,3711,0,0,6,3711
+8997,3997,1029,6997,2015,Stale Product,28:03.4,1155,Processed,Horlicks Classic Malt 1kg,Beverages,20,15,6,3065,0,0,6,3065
+17376,12376,1012,15376,2005,Stale Product,01:03.4,720,Processed,Saffola Gold Oil 1L,Grocery,17,5,4,3535,0,0,4,3535
+9567,4567,1000,7567,2040,Damaged Item,24:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,40,4,900,0,0,4,900
+9281,4281,1042,7281,2006,Stale Product,45:03.4,180,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,6,7,2491,0,0,7,2491
+15435,10435,1046,13435,2077,Damaged Item,46:03.4,270,Processed,Sprite 2L,Beverages,21,77,6,3711,0,0,6,3711
+11811,6811,1041,9811,2066,Damaged Item,37:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,66,7,3908,0,0,7,3908
+12328,7328,1050,10328,2092,Stale Product,50:03.4,396,Processed,Dabur Red Toothpaste 200g,Personal Care,12,92,6,3391,0,0,6,3391
+11031,6031,1010,9031,2085,Damaged Item,55:03.4,720,Processed,Golden Apples 1kg,Fruits,18,85,7,4247,0,0,7,4247
+9660,4660,1034,7660,2034,Damaged Item,44:03.4,630,Processed,Lizol Floor Cleaner 1L,Grocery,23,34,4,2616,0,0,4,2616
+16076,11076,1013,14076,2063,Damaged Item,29:03.4,840,Processed,Kellogg's Corn Flakes 500g,Grocery,21,63,6,1962,0,0,6,1962
+13436,8436,1001,11436,2066,Stale Product,48:03.4,780,Processed,Amul Butter 500g,Dairy,27,66,7,3908,0,0,7,3908
+8331,3331,1049,6331,2002,Damaged Item,53:03.4,720,Processed,Gillette Shaving Foam 200ml,Personal Care,21,2,5,2125,0,0,5,2125
+17796,12796,1013,15796,2029,Stale Product,15:03.4,420,Processed,Kellogg's Corn Flakes 500g,Grocery,21,29,9,4345,0,0,9,4345
+10143,5143,1047,8143,2019,Stale Product,13:03.4,1155,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,19,9,3970,0,0,9,3970
+9170,4170,1024,7170,2055,Stale Product,15:03.4,225,Processed,Bournvita 500g,Beverages,29,55,6,1723,0,0,6,1723
+11276,6276,1014,9276,2097,Damaged Item,36:03.4,580,Processed,Dettol Handwash 750ml,Personal Care,13,97,7,3164,0,0,7,3164
+16533,11533,1002,14533,2020,Stale Product,26:03.4,160,Processed,Mother Dairy Curd 400g,Dairy,17,20,5,1194,0,0,5,1194
+15038,10038,1015,13038,2036,Damaged Item,07:03.4,345,Processed,Colgate Toothpaste 200g,Personal Care,22,36,7,2930,0,0,7,2930
+9960,4960,1025,7960,2056,Damaged Item,53:03.4,225,Processed,Dove Soap 125g,Personal Care,21,56,7,3594,0,0,7,3594
+10874,5874,1018,8874,2076,Damaged Item,11:03.4,950,Processed,Surf Excel Matic 1kg,Grocery,24,76,5,1855,0,0,5,1855
+10078,5078,1046,8078,2096,Stale Product,14:03.4,270,Processed,Sprite 2L,Beverages,21,96,10,5020,0,0,10,5020
+11192,6192,1044,9192,2013,Damaged Item,05:03.4,510,Processed,Brooke Bond Red Label 500g,Beverages,18,13,9,6727,0,0,9,6727
+17113,12113,1026,15113,2018,Stale Product,22:03.4,598,Processed,Gillette Mach3 Razor,Personal Care,16,18,9,4243,0,0,9,4243
+10599,5599,1042,8599,2013,Stale Product,14:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,13,9,6727,0,0,9,6727
+12885,7885,1038,10885,2027,Damaged Item,37:03.4,90,Processed,Coca-Cola 2L,Beverages,15,27,4,1655,0,0,4,1655
+11627,6627,1027,9627,2004,Damaged Item,19:03.4,99,Processed,Real Mixed Fruit Juice 1L,Beverages,21,4,7,5781,0,0,7,5781
+16844,11844,1015,14844,2097,Stale Product,08:03.4,460,Processed,Colgate Toothpaste 200g,Personal Care,22,97,7,3164,0,0,7,3164
+12539,7539,1044,10539,2037,Damaged Item,29:03.4,680,Processed,Brooke Bond Red Label 500g,Beverages,18,37,7,1860,0,0,7,1860
+11280,6280,1025,9280,2049,Stale Product,59:03.4,90,Processed,Dove Soap 125g,Personal Care,21,49,7,2340,0,0,7,2340
+16810,11810,1004,14810,2070,Stale Product,25:03.4,56,Processed,Tata Salt 1kg,Grocery,19,70,5,4551,0,0,5,4551
+9513,4513,1022,7513,2053,Stale Product,50:03.4,320,Processed,Fortune Sunflower Oil 1L,Grocery,20,53,7,3841,0,0,7,3841
+11625,6625,1021,9625,2013,Stale Product,49:03.4,1198,Processed,Patanjali Ghee 1L,Grocery,14,13,9,6727,0,0,9,6727
+16254,11254,1035,14254,2031,Stale Product,18:03.4,360,Processed,Sprite 2L,Beverages,16,31,5,1800,0,0,5,1800
+8285,3285,1031,6285,2002,Stale Product,05:03.4,130,Processed,Himalaya Face Wash 100ml,Personal Care,19,2,5,2125,0,0,5,2125
+13538,8538,1045,11538,2086,Damaged Item,00:03.4,160,Processed,Parle-G Biscuits 800g,Snacks,17,86,6,1710,0,0,6,1710
+12804,7804,1030,10804,2080,Damaged Item,35:03.4,350,Processed,Johnson's Baby Powder 400g,Personal Care,22,80,6,1450,0,0,6,1450
+13915,8915,1044,11915,2020,Stale Product,16:03.4,170,Processed,Brooke Bond Red Label 500g,Beverages,18,20,5,1194,0,0,5,1194
+9185,4185,1011,7185,2007,Damaged Item,57:03.4,120,Processed,Bananas (12 pcs),Fruits,19,7,5,1545,0,0,5,1545
+11285,6285,1010,9285,2081,Stale Product,34:03.4,360,Processed,Golden Apples 1kg,Fruits,18,81,9,4529,0,0,9,4529
+16474,11474,1030,14474,2010,Stale Product,15:03.4,525,Processed,Johnson's Baby Powder 400g,Personal Care,22,10,10,5120,0,0,10,5120
+8263,3263,1029,6263,2059,Damaged Item,46:03.4,770,Processed,Horlicks Classic Malt 1kg,Beverages,20,59,5,2780,0,0,5,2780
+14096,9096,1032,12096,2088,Damaged Item,14:03.4,1280,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,88,4,1738,0,0,4,1738
+9260,4260,1021,7260,2060,Stale Product,59:03.4,599,Processed,Patanjali Ghee 1L,Grocery,14,60,7,2869,0,0,7,2869
+9194,4194,1018,7194,2051,Damaged Item,30:03.4,570,Processed,Surf Excel Matic 1kg,Grocery,24,51,5,1625,0,0,5,1625
+14554,9554,1008,12554,2016,Stale Product,09:03.4,300,Processed,Britannia Good Day Cashew 600g,Snacks,19,16,10,5503,0,0,10,5503
+11223,6223,1048,9223,2010,Stale Product,33:03.4,440,Processed,Real Orange Juice 1L,Beverages,17,10,10,5120,0,0,10,5120
+14735,9735,1019,12735,2008,Damaged Item,27:03.4,597,Processed,Dabur Honey 500g,Grocery,18,8,8,4080,0,0,8,4080
+13620,8620,1009,11620,2008,Damaged Item,59:03.4,35,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,8,8,4080,0,0,8,4080
+11350,6350,1031,9350,2043,Damaged Item,26:03.4,260,Processed,Himalaya Face Wash 100ml,Personal Care,19,43,3,589,0,0,3,589
+16118,11118,1043,14118,2022,Stale Product,12:03.4,560,Processed,Good Day Butter Cookies 600g,Snacks,18,22,7,2100,0,0,7,2100
+15318,10318,1042,13318,2002,Stale Product,43:03.4,720,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,2,5,2125,0,0,5,2125
+17582,12582,1016,15582,2037,Stale Product,37:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,37,7,1860,0,0,7,1860
+17740,12740,1025,15740,2014,Damaged Item,32:03.4,135,Processed,Dove Soap 125g,Personal Care,21,14,4,1800,0,0,4,1800
+15190,10190,1048,13190,2049,Stale Product,53:03.4,440,Processed,Real Orange Juice 1L,Beverages,17,49,7,2340,0,0,7,2340
+13053,8053,1036,11053,2083,Stale Product,01:03.4,195,Processed,Frooti Mango Drink 1L,Beverages,28,83,6,1740,0,0,6,1740
+13008,8008,1042,11008,2064,Damaged Item,00:03.4,360,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,64,8,2990,0,0,8,2990
+16265,11265,1048,14265,2067,Damaged Item,47:03.4,330,Processed,Real Orange Juice 1L,Beverages,17,67,2,4193,0,0,2,4193
+8925,3925,1033,6925,2022,Stale Product,45:03.4,170,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,22,7,2100,0,0,7,2100
+16286,11286,1023,14286,2009,Stale Product,39:03.4,405,Processed,Haldiram's Bhujia 400g,Snacks,23,9,5,2485,0,0,5,2485
+10681,5681,1008,8681,2053,Damaged Item,39:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,53,7,3841,0,0,7,3841
+12958,7958,1024,10958,2008,Stale Product,08:03.4,450,Processed,Bournvita 500g,Beverages,29,8,8,4080,0,0,8,4080
+12574,7574,1040,10574,2017,Damaged Item,41:03.4,320,Processed,Sensodyne Toothpaste 100g,Personal Care,23,17,1,200,0,0,1,200
+11266,6266,1009,9266,2060,Stale Product,20:03.4,140,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,60,7,2869,0,0,7,2869
+13966,8966,1020,11966,2032,Damaged Item,50:03.4,160,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,32,3,1760,0,0,3,1760
+11143,6143,1023,9143,2065,Damaged Item,38:03.4,270,Processed,Haldiram's Bhujia 400g,Snacks,23,65,6,1116,0,0,6,1116
+12116,7116,1040,10116,2015,Damaged Item,50:03.4,640,Processed,Sensodyne Toothpaste 100g,Personal Care,23,15,6,3065,0,0,6,3065
+8575,3575,1021,6575,2001,Damaged Item,58:03.4,1198,Processed,Patanjali Ghee 1L,Grocery,14,1,3,1461,0,0,3,1461
+14897,9897,1009,12897,2052,Damaged Item,02:03.4,35,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,52,3,3525,0,0,3,3525
+11829,6829,1015,9829,2023,Damaged Item,55:03.4,230,Processed,Colgate Toothpaste 200g,Personal Care,22,23,6,2165,0,0,6,2165
+8654,3654,1038,6654,2074,Stale Product,25:03.4,270,Processed,Coca-Cola 2L,Beverages,15,74,6,1628,0,0,6,1628
+13213,8213,1036,11213,2073,Stale Product,20:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,73,7,2970,0,0,7,2970
+17292,12292,1004,15292,2041,Damaged Item,46:03.4,84,Processed,Tata Salt 1kg,Grocery,19,41,4,1299,0,0,4,1299
+11959,6959,1016,9959,2013,Stale Product,35:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,13,9,6727,0,0,9,6727
+11835,6835,1009,9835,2041,Stale Product,51:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,41,4,1299,0,0,4,1299
+12300,7300,1027,10300,2006,Stale Product,55:03.4,495,Processed,Real Mixed Fruit Juice 1L,Beverages,21,6,7,2491,0,0,7,2491
+8651,3651,1005,6651,2008,Stale Product,33:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,8,8,4080,0,0,8,4080
+10506,5506,1033,8506,2014,Damaged Item,43:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,14,4,1800,0,0,4,1800
+10130,5130,1040,8130,2022,Stale Product,38:03.4,640,Processed,Sensodyne Toothpaste 100g,Personal Care,23,22,7,2100,0,0,7,2100
+8891,3891,1020,6891,2051,Stale Product,21:03.4,640,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,51,5,1625,0,0,5,1625
+16934,11934,1016,14934,2042,Stale Product,07:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,42,6,2535,0,0,6,2535
+17832,12832,1003,15832,2026,Damaged Item,01:03.4,765,Processed,Aashirvaad Atta 5kg,Grocery,18,26,7,2930,0,0,7,2930
+9650,4650,1007,7650,2045,Stale Product,44:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,45,5,2313,0,0,5,2313
+13262,8262,1030,11262,2020,Damaged Item,06:03.4,700,Processed,Johnson's Baby Powder 400g,Personal Care,22,20,5,1194,0,0,5,1194
+11268,6268,1023,9268,2048,Stale Product,47:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,48,6,3149,0,0,6,3149
+9549,4549,1002,7549,2044,Stale Product,31:03.4,80,Processed,Mother Dairy Curd 400g,Dairy,17,44,3,1977,0,0,3,1977
+13720,8720,1013,11720,2040,Damaged Item,31:03.4,420,Processed,Kellogg's Corn Flakes 500g,Grocery,21,40,4,900,0,0,4,900
+14258,9258,1008,12258,2065,Damaged Item,04:03.4,300,Processed,Britannia Good Day Cashew 600g,Snacks,19,65,6,1116,0,0,6,1116
+17597,12597,1023,15597,2049,Stale Product,46:03.4,270,Processed,Haldiram's Bhujia 400g,Snacks,23,49,7,2340,0,0,7,2340
+9414,4414,1032,7414,2026,Stale Product,54:03.4,320,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,26,7,2930,0,0,7,2930
+8635,3635,1040,6635,2007,Stale Product,11:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,7,5,1545,0,0,5,1545
+10707,5707,1039,8707,2023,Stale Product,29:03.4,220,Processed,Eveready AA Batteries (4 pcs),Electronics,20,23,6,2165,0,0,6,2165
+14529,9529,1013,12529,2033,Stale Product,23:03.4,630,Processed,Kellogg's Corn Flakes 500g,Grocery,21,33,5,1223,0,0,5,1223
+14787,9787,1020,12787,2098,Damaged Item,07:03.4,800,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,98,4,1865,0,0,4,1865
+17125,12125,1008,15125,2077,Damaged Item,13:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,77,6,3711,0,0,6,3711
+13886,8886,1031,11886,2033,Damaged Item,57:03.4,390,Processed,Himalaya Face Wash 100ml,Personal Care,19,33,5,1223,0,0,5,1223
+16680,11680,1048,14680,2029,Damaged Item,26:03.4,330,Processed,Real Orange Juice 1L,Beverages,17,29,9,4345,0,0,9,4345
+10433,5433,1009,8433,2029,Stale Product,34:03.4,140,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,29,9,4345,0,0,9,4345
+16555,11555,1050,14555,2066,Stale Product,15:03.4,495,Processed,Dabur Red Toothpaste 200g,Personal Care,12,66,7,3908,0,0,7,3908
+14907,9907,1042,12907,2078,Damaged Item,58:03.4,180,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,78,3,490,0,0,3,490
+11233,6233,1041,9233,2034,Damaged Item,36:03.4,825,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,34,4,2616,0,0,4,2616
+10284,5284,1042,8284,2031,Stale Product,04:03.4,180,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,31,5,1800,0,0,5,1800
+10899,5899,1039,8899,2023,Stale Product,20:03.4,330,Processed,Eveready AA Batteries (4 pcs),Electronics,20,23,6,2165,0,0,6,2165
+12901,7901,1003,10901,2006,Damaged Item,58:03.4,510,Processed,Aashirvaad Atta 5kg,Grocery,18,6,7,2491,0,0,7,2491
+17585,12585,1025,15585,2073,Damaged Item,47:03.4,45,Processed,Dove Soap 125g,Personal Care,21,73,7,2970,0,0,7,2970
+16479,11479,1045,14479,2019,Stale Product,58:03.4,160,Processed,Parle-G Biscuits 800g,Snacks,17,19,9,3970,0,0,9,3970
+11351,6351,1010,9351,2026,Stale Product,11:03.4,360,Processed,Golden Apples 1kg,Fruits,18,26,7,2930,0,0,7,2930
+11550,6550,1029,9550,2073,Damaged Item,22:03.4,385,Processed,Horlicks Classic Malt 1kg,Beverages,20,73,7,2970,0,0,7,2970
+15463,10463,1034,13463,2010,Stale Product,42:03.4,1050,Processed,Lizol Floor Cleaner 1L,Grocery,23,10,10,5120,0,0,10,5120
+10440,5440,1027,8440,2063,Damaged Item,03:03.4,495,Processed,Real Mixed Fruit Juice 1L,Beverages,21,63,6,1962,0,0,6,1962
+15844,10844,1035,13844,2059,Stale Product,56:03.4,270,Processed,Sprite 2L,Beverages,16,59,5,2780,0,0,5,2780
+15985,10985,1006,13985,2091,Damaged Item,29:03.4,14,Processed,Maggi Noodles 70g,Snacks,21,91,9,2593,0,0,9,2593
+14315,9315,1029,12315,2087,Damaged Item,38:03.4,1925,Processed,Horlicks Classic Malt 1kg,Beverages,20,87,6,1715,0,0,6,1715
+12021,7021,1026,10021,2070,Stale Product,02:03.4,299,Processed,Gillette Mach3 Razor,Personal Care,16,70,5,4551,0,0,5,4551
+11654,6654,1043,9654,2066,Damaged Item,23:03.4,560,Processed,Good Day Butter Cookies 600g,Snacks,18,66,7,3908,0,0,7,3908
+17617,12617,1047,15617,2015,Stale Product,33:03.4,385,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,15,6,3065,0,0,6,3065
+12202,7202,1049,10202,2061,Stale Product,30:03.4,1200,Processed,Gillette Shaving Foam 200ml,Personal Care,21,61,7,4815,0,0,7,4815
+9049,4049,1037,7049,2011,Stale Product,54:03.4,350,Processed,Dabur Chyawanprash 1kg,Health,10,11,6,4745,0,0,6,4745
+8637,3637,1021,6637,2070,Stale Product,12:03.4,2396,Processed,Patanjali Ghee 1L,Grocery,14,70,5,4551,0,0,5,4551
+11767,6767,1031,9767,2052,Damaged Item,06:03.4,650,Processed,Himalaya Face Wash 100ml,Personal Care,19,52,3,3525,0,0,3,3525
+16083,11083,1002,14083,2034,Damaged Item,17:03.4,40,Processed,Mother Dairy Curd 400g,Dairy,17,34,4,2616,0,0,4,2616
+15475,10475,1004,13475,2081,Damaged Item,14:03.4,112,Processed,Tata Salt 1kg,Grocery,19,81,9,4529,0,0,9,4529
+14911,9911,1025,12911,2080,Damaged Item,02:03.4,45,Processed,Dove Soap 125g,Personal Care,21,80,6,1450,0,0,6,1450
+10548,5548,1037,8548,2000,Stale Product,19:03.4,1400,Processed,Dabur Chyawanprash 1kg,Health,10,0,5,4235,0,0,5,4235
+11461,6461,1039,9461,2059,Damaged Item,48:03.4,550,Processed,Eveready AA Batteries (4 pcs),Electronics,20,59,5,2780,0,0,5,2780
+9369,4369,1003,7369,2033,Damaged Item,46:03.4,765,Processed,Aashirvaad Atta 5kg,Grocery,18,33,5,1223,0,0,5,1223
+11732,6732,1007,9732,2022,Stale Product,59:03.4,20,Processed,Lays Classic Salted 52g,Snacks,22,22,7,2100,0,0,7,2100
+17915,12915,1007,15915,2064,Stale Product,57:03.4,80,Processed,Lays Classic Salted 52g,Snacks,22,64,8,2990,0,0,8,2990
+17814,12814,1008,15814,2012,Damaged Item,17:03.4,150,Processed,Britannia Good Day Cashew 600g,Snacks,19,12,7,5165,0,0,7,5165
+10001,5001,1017,8001,2006,Damaged Item,34:03.4,480,Processed,Tata Tea Premium 500g,Beverages,12,6,7,2491,0,0,7,2491
+15287,10287,1049,13287,2085,Damaged Item,28:03.4,1200,Processed,Gillette Shaving Foam 200ml,Personal Care,21,85,7,4247,0,0,7,4247
+11316,6316,1014,9316,2098,Stale Product,27:03.4,725,Processed,Dettol Handwash 750ml,Personal Care,13,98,4,1865,0,0,4,1865
+11643,6643,1024,9643,2005,Damaged Item,16:03.4,450,Processed,Bournvita 500g,Beverages,29,5,4,3535,0,0,4,3535
+8630,3630,1033,6630,2063,Damaged Item,38:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,63,6,1962,0,0,6,1962
+10609,5609,1036,8609,2010,Stale Product,43:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,10,10,5120,0,0,10,5120
+17667,12667,1003,15667,2070,Stale Product,02:03.4,1275,Processed,Aashirvaad Atta 5kg,Grocery,18,70,5,4551,0,0,5,4551
+13014,8014,1046,11014,2043,Stale Product,37:03.4,360,Processed,Sprite 2L,Beverages,21,43,3,589,0,0,3,589
+15096,10096,1036,13096,2063,Stale Product,09:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,63,6,1962,0,0,6,1962
+16999,11999,1000,14999,2029,Damaged Item,07:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,29,9,4345,0,0,9,4345
+16891,11891,1032,14891,2059,Stale Product,27:03.4,640,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,59,5,2780,0,0,5,2780
+14200,9200,1014,12200,2012,Stale Product,29:03.4,435,Processed,Dettol Handwash 750ml,Personal Care,13,12,7,5165,0,0,7,5165
+13336,8336,1034,11336,2032,Stale Product,55:03.4,210,Processed,Lizol Floor Cleaner 1L,Grocery,23,32,3,1760,0,0,3,1760
+17046,12046,1012,15046,2061,Stale Product,41:03.4,720,Processed,Saffola Gold Oil 1L,Grocery,17,61,7,4815,0,0,7,4815
+17962,12962,1004,15962,2070,Damaged Item,52:03.4,140,Processed,Tata Salt 1kg,Grocery,19,70,5,4551,0,0,5,4551
+11079,6079,1011,9079,2087,Damaged Item,44:03.4,60,Processed,Bananas (12 pcs),Fruits,19,87,6,1715,0,0,6,1715
+10207,5207,1020,8207,2025,Stale Product,24:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,25,2,2020,0,0,2,2020
+9942,4942,1019,7942,2090,Stale Product,02:03.4,199,Processed,Dabur Honey 500g,Grocery,18,90,4,1091,0,0,4,1091
+11562,6562,1036,9562,2061,Stale Product,24:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,61,7,4815,0,0,7,4815
+10943,5943,1009,8943,2012,Stale Product,59:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,12,7,5165,0,0,7,5165
+9863,4863,1015,7863,2091,Stale Product,28:03.4,460,Processed,Colgate Toothpaste 200g,Personal Care,22,91,9,2593,0,0,9,2593
+10958,5958,1013,8958,2088,Damaged Item,24:03.4,1050,Processed,Kellogg's Corn Flakes 500g,Grocery,21,88,4,1738,0,0,4,1738
+10890,5890,1037,8890,2053,Stale Product,48:03.4,1750,Processed,Dabur Chyawanprash 1kg,Health,10,53,7,3841,0,0,7,3841
+9037,4037,1012,7037,2052,Damaged Item,09:03.4,900,Processed,Saffola Gold Oil 1L,Grocery,17,52,3,3525,0,0,3,3525
+10236,5236,1001,8236,2016,Stale Product,13:03.4,260,Processed,Amul Butter 500g,Dairy,27,16,10,5503,0,0,10,5503
+10934,5934,1027,8934,2013,Stale Product,50:03.4,99,Processed,Real Mixed Fruit Juice 1L,Beverages,21,13,9,6727,0,0,9,6727
+13174,8174,1016,11174,2012,Damaged Item,41:03.4,450,Processed,Nescafe Classic Coffee 100g,Beverages,21,12,7,5165,0,0,7,5165
+10781,5781,1026,8781,2054,Stale Product,00:03.4,1495,Processed,Gillette Mach3 Razor,Personal Care,16,54,3,1865,0,0,3,1865
+15275,10275,1009,13275,2035,Damaged Item,42:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,35,3,1345,0,0,3,1345
+15859,10859,1045,13859,2026,Stale Product,04:03.4,320,Processed,Parle-G Biscuits 800g,Snacks,17,26,7,2930,0,0,7,2930
+12406,7406,1024,10406,2018,Stale Product,51:03.4,1125,Processed,Bournvita 500g,Beverages,29,18,9,4243,0,0,9,4243
+16022,11022,1041,14022,2053,Stale Product,52:03.4,550,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,53,7,3841,0,0,7,3841
+17241,12241,1013,15241,2052,Damaged Item,49:03.4,840,Processed,Kellogg's Corn Flakes 500g,Grocery,21,52,3,3525,0,0,3,3525
+16424,11424,1021,14424,2081,Damaged Item,13:03.4,1198,Processed,Patanjali Ghee 1L,Grocery,14,81,9,4529,0,0,9,4529
+13277,8277,1042,11277,2014,Stale Product,42:03.4,180,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,14,4,1800,0,0,4,1800
+15279,10279,1001,13279,2007,Stale Product,57:03.4,520,Processed,Amul Butter 500g,Dairy,27,7,5,1545,0,0,5,1545
+17674,12674,1004,15674,2015,Stale Product,49:03.4,140,Processed,Tata Salt 1kg,Grocery,19,15,6,3065,0,0,6,3065
+15240,10240,1043,13240,2053,Damaged Item,53:03.4,700,Processed,Good Day Butter Cookies 600g,Snacks,18,53,7,3841,0,0,7,3841
+10119,5119,1001,8119,2000,Stale Product,35:03.4,780,Processed,Amul Butter 500g,Dairy,27,0,5,4235,0,0,5,4235
+8582,3582,1050,6582,2046,Damaged Item,44:03.4,495,Processed,Dabur Red Toothpaste 200g,Personal Care,12,46,3,2800,0,0,3,2800
+10307,5307,1035,8307,2096,Damaged Item,46:03.4,180,Processed,Sprite 2L,Beverages,16,96,10,5020,0,0,10,5020
+9025,4025,1005,7025,2013,Stale Product,59:03.4,900,Processed,India Gate Basmati Rice 1kg,Grocery,18,13,9,6727,0,0,9,6727
+11336,6336,1039,9336,2092,Damaged Item,01:03.4,330,Processed,Eveready AA Batteries (4 pcs),Electronics,20,92,6,3391,0,0,6,3391
+8222,3222,1036,6222,2065,Stale Product,14:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,65,6,1116,0,0,6,1116
+17447,12447,1001,15447,2011,Stale Product,07:03.4,780,Processed,Amul Butter 500g,Dairy,27,11,6,4745,0,0,6,4745
+17716,12716,1044,15716,2045,Stale Product,04:03.4,340,Processed,Brooke Bond Red Label 500g,Beverages,18,45,5,2313,0,0,5,2313
+9826,4826,1005,7826,2018,Damaged Item,04:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,18,9,4243,0,0,9,4243
+8746,3746,1030,6746,2024,Damaged Item,42:03.4,700,Processed,Johnson's Baby Powder 400g,Personal Care,22,24,4,630,0,0,4,630
+8170,3170,1030,6170,2095,Stale Product,59:03.4,350,Processed,Johnson's Baby Powder 400g,Personal Care,22,95,4,1995,0,0,4,1995
+8133,3133,1005,6133,2089,Stale Product,14:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,89,4,1540,0,0,4,1540
+16833,11833,1049,14833,2066,Stale Product,29:03.4,240,Processed,Gillette Shaving Foam 200ml,Personal Care,21,66,7,3908,0,0,7,3908
+17504,12504,1048,15504,2052,Damaged Item,39:03.4,440,Processed,Real Orange Juice 1L,Beverages,17,52,3,3525,0,0,3,3525
+16528,11528,1043,14528,2069,Damaged Item,22:03.4,140,Processed,Good Day Butter Cookies 600g,Snacks,18,69,4,2970,0,0,4,2970
+13722,8722,1001,11722,2077,Damaged Item,51:03.4,520,Processed,Amul Butter 500g,Dairy,27,77,6,3711,0,0,6,3711
+8770,3770,1036,6770,2072,Damaged Item,08:03.4,260,Processed,Frooti Mango Drink 1L,Beverages,28,72,4,1415,0,0,4,1415
+9270,4270,1037,7270,2059,Stale Product,41:03.4,700,Processed,Dabur Chyawanprash 1kg,Health,10,59,5,2780,0,0,5,2780
+16484,11484,1024,14484,2002,Damaged Item,59:03.4,675,Processed,Bournvita 500g,Beverages,29,2,5,2125,0,0,5,2125
+11472,6472,1017,9472,2078,Stale Product,30:03.4,240,Processed,Tata Tea Premium 500g,Beverages,12,78,3,490,0,0,3,490
+17784,12784,1020,15784,2043,Damaged Item,31:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,43,3,589,0,0,3,589
+14331,9331,1026,12331,2094,Damaged Item,43:03.4,299,Processed,Gillette Mach3 Razor,Personal Care,16,94,4,1029,0,0,4,1029
+17336,12336,1034,15336,2067,Damaged Item,07:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,67,2,4193,0,0,2,4193
+10321,5321,1016,8321,2061,Damaged Item,19:03.4,750,Processed,Nescafe Classic Coffee 100g,Beverages,21,61,7,4815,0,0,7,4815
+10530,5530,1035,8530,2029,Stale Product,27:03.4,450,Processed,Sprite 2L,Beverages,16,29,9,4345,0,0,9,4345
+17778,12778,1038,15778,2092,Stale Product,27:03.4,450,Processed,Coca-Cola 2L,Beverages,15,92,6,3391,0,0,6,3391
+10028,5028,1049,8028,2094,Damaged Item,04:03.4,480,Processed,Gillette Shaving Foam 200ml,Personal Care,21,94,4,1029,0,0,4,1029
+16188,11188,1022,14188,2060,Damaged Item,16:03.4,800,Processed,Fortune Sunflower Oil 1L,Grocery,20,60,7,2869,0,0,7,2869
+10851,5851,1042,8851,2093,Stale Product,11:03.4,720,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,93,2,850,0,0,2,850
+14630,9630,1006,12630,2066,Damaged Item,47:03.4,28,Processed,Maggi Noodles 70g,Snacks,21,66,7,3908,0,0,7,3908
+10193,5193,1007,8193,2091,Stale Product,06:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,91,9,2593,0,0,9,2593
+16556,11556,1020,14556,2064,Stale Product,19:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,64,8,2990,0,0,8,2990
+13558,8558,1023,11558,2012,Stale Product,36:03.4,135,Processed,Haldiram's Bhujia 400g,Snacks,23,12,7,5165,0,0,7,5165
+16174,11174,1000,14174,2034,Stale Product,06:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,34,4,2616,0,0,4,2616
+11826,6826,1015,9826,2087,Stale Product,27:03.4,460,Processed,Colgate Toothpaste 200g,Personal Care,22,87,6,1715,0,0,6,1715
+9406,4406,1024,7406,2077,Damaged Item,30:03.4,450,Processed,Bournvita 500g,Beverages,29,77,6,3711,0,0,6,3711
+13430,8430,1040,11430,2023,Damaged Item,35:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,23,6,2165,0,0,6,2165
+10769,5769,1012,8769,2048,Stale Product,19:03.4,720,Processed,Saffola Gold Oil 1L,Grocery,17,48,6,3149,0,0,6,3149
+16988,11988,1040,14988,2087,Damaged Item,54:03.4,640,Processed,Sensodyne Toothpaste 100g,Personal Care,23,87,6,1715,0,0,6,1715
+15245,10245,1040,13245,2064,Stale Product,22:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,64,8,2990,0,0,8,2990
+16241,11241,1043,14241,2045,Damaged Item,13:03.4,700,Processed,Good Day Butter Cookies 600g,Snacks,18,45,5,2313,0,0,5,2313
+10512,5512,1026,8512,2004,Stale Product,48:03.4,1196,Processed,Gillette Mach3 Razor,Personal Care,16,4,7,5781,0,0,7,5781
+10409,5409,1033,8409,2074,Damaged Item,57:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,74,6,1628,0,0,6,1628
+8729,3729,1020,6729,2011,Stale Product,19:03.4,800,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,11,6,4745,0,0,6,4745
+13179,8179,1024,11179,2052,Stale Product,04:03.4,1125,Processed,Bournvita 500g,Beverages,29,52,3,3525,0,0,3,3525
+11620,6620,1036,9620,2080,Stale Product,54:03.4,260,Processed,Frooti Mango Drink 1L,Beverages,28,80,6,1450,0,0,6,1450
+13705,8705,1014,11705,2017,Damaged Item,52:03.4,725,Processed,Dettol Handwash 750ml,Personal Care,13,17,1,200,0,0,1,200
+9425,4425,1034,7425,2050,Stale Product,11:03.4,630,Processed,Lizol Floor Cleaner 1L,Grocery,23,50,4,1910,0,0,4,1910
+14952,9952,1041,12952,2072,Stale Product,58:03.4,550,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,72,4,1415,0,0,4,1415
+14609,9609,1021,12609,2035,Damaged Item,43:03.4,2995,Processed,Patanjali Ghee 1L,Grocery,14,35,3,1345,0,0,3,1345
+16422,11422,1007,14422,2098,Damaged Item,28:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,98,4,1865,0,0,4,1865
+8016,3016,1013,6016,2097,Stale Product,33:03.4,630,Processed,Kellogg's Corn Flakes 500g,Grocery,21,97,7,3164,0,0,7,3164
+11177,6177,1017,9177,2011,Stale Product,48:03.4,960,Processed,Tata Tea Premium 500g,Beverages,12,11,6,4745,0,0,6,4745
+10366,5366,1014,8366,2028,Stale Product,40:03.4,435,Processed,Dettol Handwash 750ml,Personal Care,13,28,4,1555,0,0,4,1555
+14170,9170,1043,12170,2027,Damaged Item,29:03.4,560,Processed,Good Day Butter Cookies 600g,Snacks,18,27,4,1655,0,0,4,1655
+11589,6589,1019,9589,2053,Damaged Item,31:03.4,995,Processed,Dabur Honey 500g,Grocery,18,53,7,3841,0,0,7,3841
+8645,3645,1010,6645,2079,Damaged Item,55:03.4,720,Processed,Golden Apples 1kg,Fruits,18,79,3,2255,0,0,3,2255
+13590,8590,1012,11590,2015,Damaged Item,10:03.4,360,Processed,Saffola Gold Oil 1L,Grocery,17,15,6,3065,0,0,6,3065
+15957,10957,1018,13957,2099,Stale Product,36:03.4,950,Processed,Surf Excel Matic 1kg,Grocery,24,99,1,950,0,0,1,950
+13562,8562,1043,11562,2041,Damaged Item,58:03.4,420,Processed,Good Day Butter Cookies 600g,Snacks,18,41,4,1299,0,0,4,1299
+9569,4569,1048,7569,2036,Damaged Item,57:03.4,330,Processed,Real Orange Juice 1L,Beverages,17,36,7,2930,0,0,7,2930
+10995,5995,1040,8995,2063,Stale Product,02:03.4,320,Processed,Sensodyne Toothpaste 100g,Personal Care,23,63,6,1962,0,0,6,1962
+17184,12184,1018,15184,2075,Damaged Item,35:03.4,380,Processed,Surf Excel Matic 1kg,Grocery,24,75,4,833,0,0,4,833
+16889,11889,1006,14889,2024,Stale Product,11:03.4,70,Processed,Maggi Noodles 70g,Snacks,21,24,4,630,0,0,4,630
+17406,12406,1009,15406,2055,Damaged Item,05:03.4,70,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,55,6,1723,0,0,6,1723
+9454,4454,1008,7454,2029,Stale Product,28:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,29,9,4345,0,0,9,4345
+17677,12677,1016,15677,2018,Damaged Item,28:03.4,600,Processed,Nescafe Classic Coffee 100g,Beverages,21,18,9,4243,0,0,9,4243
+15862,10862,1034,13862,2006,Damaged Item,30:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,6,7,2491,0,0,7,2491
+15861,10861,1011,13861,2079,Stale Product,57:03.4,300,Processed,Bananas (12 pcs),Fruits,19,79,3,2255,0,0,3,2255
+15613,10613,1015,13613,2049,Damaged Item,52:03.4,230,Processed,Colgate Toothpaste 200g,Personal Care,22,49,7,2340,0,0,7,2340
+13730,8730,1050,11730,2096,Stale Product,13:03.4,297,Processed,Dabur Red Toothpaste 200g,Personal Care,12,96,10,5020,0,0,10,5020
+9823,4823,1020,7823,2091,Stale Product,14:03.4,160,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,91,9,2593,0,0,9,2593
+12383,7383,1017,10383,2051,Damaged Item,31:03.4,720,Processed,Tata Tea Premium 500g,Beverages,12,51,5,1625,0,0,5,1625
+8446,3446,1030,6446,2029,Stale Product,52:03.4,350,Processed,Johnson's Baby Powder 400g,Personal Care,22,29,9,4345,0,0,9,4345
+13251,8251,1029,11251,2013,Stale Product,05:03.4,1540,Processed,Horlicks Classic Malt 1kg,Beverages,20,13,9,6727,0,0,9,6727
+17721,12721,1024,15721,2081,Damaged Item,27:03.4,675,Processed,Bournvita 500g,Beverages,29,81,9,4529,0,0,9,4529
+16389,11389,1039,14389,2077,Stale Product,18:03.4,550,Processed,Eveready AA Batteries (4 pcs),Electronics,20,77,6,3711,0,0,6,3711
+13576,8576,1030,11576,2073,Damaged Item,46:03.4,350,Processed,Johnson's Baby Powder 400g,Personal Care,22,73,7,2970,0,0,7,2970
+13357,8357,1040,11357,2018,Damaged Item,42:03.4,160,Processed,Sensodyne Toothpaste 100g,Personal Care,23,18,9,4243,0,0,9,4243
+16121,11121,1007,14121,2096,Stale Product,00:03.4,40,Processed,Lays Classic Salted 52g,Snacks,22,96,10,5020,0,0,10,5020
+11925,6925,1011,9925,2048,Damaged Item,44:03.4,60,Processed,Bananas (12 pcs),Fruits,19,48,6,3149,0,0,6,3149
+12764,7764,1008,10764,2051,Stale Product,50:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,51,5,1625,0,0,5,1625
+17809,12809,1021,15809,2085,Stale Product,56:03.4,1198,Processed,Patanjali Ghee 1L,Grocery,14,85,7,4247,0,0,7,4247
+10362,5362,1023,8362,2031,Stale Product,08:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,31,5,1800,0,0,5,1800
+14327,9327,1003,12327,2044,Damaged Item,19:03.4,255,Processed,Aashirvaad Atta 5kg,Grocery,18,44,3,1977,0,0,3,1977
+15422,10422,1010,13422,2002,Damaged Item,04:03.4,720,Processed,Golden Apples 1kg,Fruits,18,2,5,2125,0,0,5,2125
+16246,11246,1043,14246,2061,Stale Product,05:03.4,140,Processed,Good Day Butter Cookies 600g,Snacks,18,61,7,4815,0,0,7,4815
+12685,7685,1003,10685,2047,Damaged Item,41:03.4,255,Processed,Aashirvaad Atta 5kg,Grocery,18,47,5,1740,0,0,5,1740
+10863,5863,1026,8863,2039,Damaged Item,23:03.4,299,Processed,Gillette Mach3 Razor,Personal Care,16,39,5,3560,0,0,5,3560
+12892,7892,1018,10892,2084,Damaged Item,30:03.4,190,Processed,Surf Excel Matic 1kg,Grocery,24,84,3,2380,0,0,3,2380
+17206,12206,1004,15206,2053,Damaged Item,43:03.4,56,Processed,Tata Salt 1kg,Grocery,19,53,7,3841,0,0,7,3841
+12611,7611,1040,10611,2027,Damaged Item,26:03.4,480,Processed,Sensodyne Toothpaste 100g,Personal Care,23,27,4,1655,0,0,4,1655
+8461,3461,1036,6461,2034,Damaged Item,31:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,34,4,2616,0,0,4,2616
+12046,7046,1042,10046,2012,Damaged Item,26:03.4,720,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,12,7,5165,0,0,7,5165
+8937,3937,1022,6937,2004,Damaged Item,54:03.4,480,Processed,Fortune Sunflower Oil 1L,Grocery,20,4,7,5781,0,0,7,5781
+13800,8800,1024,11800,2073,Stale Product,41:03.4,1125,Processed,Bournvita 500g,Beverages,29,73,7,2970,0,0,7,2970
+11693,6693,1042,9693,2023,Stale Product,59:03.4,720,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,23,6,2165,0,0,6,2165
+9854,4854,1045,7854,2097,Damaged Item,09:03.4,240,Processed,Parle-G Biscuits 800g,Snacks,17,97,7,3164,0,0,7,3164
+11217,6217,1046,9217,2092,Stale Product,13:03.4,90,Processed,Sprite 2L,Beverages,21,92,6,3391,0,0,6,3391
+10237,5237,1026,8237,2077,Stale Product,28:03.4,1196,Processed,Gillette Mach3 Razor,Personal Care,16,77,6,3711,0,0,6,3711
+15295,10295,1049,13295,2003,Stale Product,15:03.4,480,Processed,Gillette Shaving Foam 200ml,Personal Care,21,3,6,2062,0,0,6,2062
+12674,7674,1020,10674,2050,Stale Product,25:03.4,320,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,50,4,1910,0,0,4,1910
+11294,6294,1009,9294,2007,Stale Product,55:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,7,5,1545,0,0,5,1545
+15471,10471,1013,13471,2048,Stale Product,09:03.4,210,Processed,Kellogg's Corn Flakes 500g,Grocery,21,48,6,3149,0,0,6,3149
+13858,8858,1034,11858,2053,Stale Product,02:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,53,7,3841,0,0,7,3841
+10879,5879,1001,8879,2076,Damaged Item,28:03.4,520,Processed,Amul Butter 500g,Dairy,27,76,5,1855,0,0,5,1855
+17328,12328,1015,15328,2044,Damaged Item,43:03.4,460,Processed,Colgate Toothpaste 200g,Personal Care,22,44,3,1977,0,0,3,1977
+15804,10804,1043,13804,2094,Stale Product,26:03.4,140,Processed,Good Day Butter Cookies 600g,Snacks,18,94,4,1029,0,0,4,1029
+15974,10974,1022,13974,2055,Stale Product,44:03.4,160,Processed,Fortune Sunflower Oil 1L,Grocery,20,55,6,1723,0,0,6,1723
+14474,9474,1050,12474,2044,Damaged Item,18:03.4,297,Processed,Dabur Red Toothpaste 200g,Personal Care,12,44,3,1977,0,0,3,1977
+11034,6034,1032,9034,2019,Stale Product,50:03.4,320,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,19,9,3970,0,0,9,3970
+17185,12185,1016,15185,2009,Damaged Item,43:03.4,150,Processed,Nescafe Classic Coffee 100g,Beverages,21,9,5,2485,0,0,5,2485
+11918,6918,1010,9918,2050,Damaged Item,34:03.4,180,Processed,Golden Apples 1kg,Fruits,18,50,4,1910,0,0,4,1910
+11069,6069,1012,9069,2037,Damaged Item,21:03.4,540,Processed,Saffola Gold Oil 1L,Grocery,17,37,7,1860,0,0,7,1860
+15696,10696,1020,13696,2090,Damaged Item,35:03.4,640,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,90,4,1091,0,0,4,1091
+14805,9805,1003,12805,2010,Stale Product,54:03.4,510,Processed,Aashirvaad Atta 5kg,Grocery,18,10,10,5120,0,0,10,5120
+15409,10409,1015,13409,2076,Damaged Item,32:03.4,575,Processed,Colgate Toothpaste 200g,Personal Care,22,76,5,1855,0,0,5,1855
+8335,3335,1034,6335,2005,Damaged Item,04:03.4,1050,Processed,Lizol Floor Cleaner 1L,Grocery,23,5,4,3535,0,0,4,3535
+14855,9855,1002,12855,2024,Damaged Item,42:03.4,200,Processed,Mother Dairy Curd 400g,Dairy,17,24,4,630,0,0,4,630
+14691,9691,1020,12691,2036,Stale Product,59:03.4,160,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,36,7,2930,0,0,7,2930
+8886,3886,1000,6886,2099,Damaged Item,58:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,99,1,950,0,0,1,950
+17745,12745,1046,15745,2046,Stale Product,29:03.4,270,Processed,Sprite 2L,Beverages,21,46,3,2800,0,0,3,2800
+16679,11679,1041,14679,2050,Damaged Item,08:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,50,4,1910,0,0,4,1910
+16606,11606,1031,14606,2086,Damaged Item,00:03.4,260,Processed,Himalaya Face Wash 100ml,Personal Care,19,86,6,1710,0,0,6,1710
+13048,8048,1002,11048,2038,Damaged Item,58:03.4,120,Processed,Mother Dairy Curd 400g,Dairy,17,38,3,1595,0,0,3,1595
+15450,10450,1039,13450,2072,Stale Product,52:03.4,220,Processed,Eveready AA Batteries (4 pcs),Electronics,20,72,4,1415,0,0,4,1415
+9612,4612,1006,7612,2054,Damaged Item,18:03.4,14,Processed,Maggi Noodles 70g,Snacks,21,54,3,1865,0,0,3,1865
+9828,4828,1048,7828,2061,Stale Product,32:03.4,440,Processed,Real Orange Juice 1L,Beverages,17,61,7,4815,0,0,7,4815
+14346,9346,1036,12346,2064,Damaged Item,10:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,64,8,2990,0,0,8,2990
+15843,10843,1019,13843,2081,Stale Product,38:03.4,398,Processed,Dabur Honey 500g,Grocery,18,81,9,4529,0,0,9,4529
+16755,11755,1033,14755,2056,Stale Product,49:03.4,340,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,56,7,3594,0,0,7,3594
+15232,10232,1043,13232,2091,Damaged Item,25:03.4,280,Processed,Good Day Butter Cookies 600g,Snacks,18,91,9,2593,0,0,9,2593
+10750,5750,1012,8750,2024,Damaged Item,58:03.4,540,Processed,Saffola Gold Oil 1L,Grocery,17,24,4,630,0,0,4,630
+14453,9453,1024,12453,2082,Damaged Item,33:03.4,225,Processed,Bournvita 500g,Beverages,29,82,1,1495,0,0,1,1495
+8406,3406,1013,6406,2069,Stale Product,56:03.4,210,Processed,Kellogg's Corn Flakes 500g,Grocery,21,69,4,2970,0,0,4,2970
+16830,11830,1029,14830,2057,Damaged Item,52:03.4,1155,Processed,Horlicks Classic Malt 1kg,Beverages,20,57,1,135,0,0,1,135
+14109,9109,1035,12109,2032,Damaged Item,10:03.4,180,Processed,Sprite 2L,Beverages,16,32,3,1760,0,0,3,1760
+17592,12592,1046,15592,2010,Damaged Item,34:03.4,450,Processed,Sprite 2L,Beverages,21,10,10,5120,0,0,10,5120
+10814,5814,1038,8814,2090,Stale Product,36:03.4,360,Processed,Coca-Cola 2L,Beverages,15,90,4,1091,0,0,4,1091
+16238,11238,1049,14238,2044,Damaged Item,31:03.4,960,Processed,Gillette Shaving Foam 200ml,Personal Care,21,44,3,1977,0,0,3,1977
+9241,4241,1032,7241,2075,Damaged Item,13:03.4,960,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,75,4,833,0,0,4,833
+15656,10656,1018,13656,2008,Damaged Item,18:03.4,950,Processed,Surf Excel Matic 1kg,Grocery,24,8,8,4080,0,0,8,4080
+11029,6029,1010,9029,2034,Stale Product,23:03.4,900,Processed,Golden Apples 1kg,Fruits,18,34,4,2616,0,0,4,2616
+15260,10260,1039,13260,2054,Damaged Item,21:03.4,110,Processed,Eveready AA Batteries (4 pcs),Electronics,20,54,3,1865,0,0,3,1865
+17213,12213,1048,15213,2007,Stale Product,47:03.4,220,Processed,Real Orange Juice 1L,Beverages,17,7,5,1545,0,0,5,1545
+15021,10021,1028,13021,2079,Damaged Item,00:03.4,600,Processed,Catch Black Pepper 100g,Grocery,12,79,3,2255,0,0,3,2255
+9259,4259,1004,7259,2090,Stale Product,21:03.4,112,Processed,Tata Salt 1kg,Grocery,19,90,4,1091,0,0,4,1091
+10649,5649,1008,8649,2096,Stale Product,42:03.4,150,Processed,Britannia Good Day Cashew 600g,Snacks,19,96,10,5020,0,0,10,5020
+12155,7155,1049,10155,2097,Stale Product,45:03.4,480,Processed,Gillette Shaving Foam 200ml,Personal Care,21,97,7,3164,0,0,7,3164
+9465,4465,1035,7465,2080,Stale Product,45:03.4,180,Processed,Sprite 2L,Beverages,16,80,6,1450,0,0,6,1450
+16798,11798,1007,14798,2019,Stale Product,13:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,19,9,3970,0,0,9,3970
+14929,9929,1020,12929,2074,Stale Product,10:03.4,640,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,74,6,1628,0,0,6,1628
+11700,6700,1000,9700,2012,Damaged Item,33:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,12,7,5165,0,0,7,5165
+16796,11796,1008,14796,2019,Damaged Item,23:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,19,9,3970,0,0,9,3970
+8148,3148,1038,6148,2007,Damaged Item,48:03.4,450,Processed,Coca-Cola 2L,Beverages,15,7,5,1545,0,0,5,1545
+14034,9034,1047,12034,2056,Stale Product,29:03.4,1925,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,56,7,3594,0,0,7,3594
+12897,7897,1039,10897,2096,Stale Product,14:03.4,110,Processed,Eveready AA Batteries (4 pcs),Electronics,20,96,10,5020,0,0,10,5020
+15178,10178,1043,13178,2037,Stale Product,29:03.4,140,Processed,Good Day Butter Cookies 600g,Snacks,18,37,7,1860,0,0,7,1860
+9667,4667,1005,7667,2053,Damaged Item,42:03.4,360,Processed,India Gate Basmati Rice 1kg,Grocery,18,53,7,3841,0,0,7,3841
+8540,3540,1017,6540,2031,Damaged Item,04:03.4,1200,Processed,Tata Tea Premium 500g,Beverages,12,31,5,1800,0,0,5,1800
+8718,3718,1023,6718,2023,Damaged Item,20:03.4,540,Processed,Haldiram's Bhujia 400g,Snacks,23,23,6,2165,0,0,6,2165
+12049,7049,1017,10049,2036,Stale Product,05:03.4,960,Processed,Tata Tea Premium 500g,Beverages,12,36,7,2930,0,0,7,2930
+13482,8482,1010,11482,2011,Stale Product,20:03.4,360,Processed,Golden Apples 1kg,Fruits,18,11,6,4745,0,0,6,4745
+14446,9446,1047,12446,2025,Stale Product,02:03.4,1540,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,25,2,2020,0,0,2,2020
+17218,12218,1045,15218,2088,Damaged Item,33:03.4,160,Processed,Parle-G Biscuits 800g,Snacks,17,88,4,1738,0,0,4,1738
+12359,7359,1010,10359,2030,Stale Product,42:03.4,180,Processed,Golden Apples 1kg,Fruits,18,30,6,4292,0,0,6,4292
+17358,12358,1029,15358,2054,Damaged Item,20:03.4,385,Processed,Horlicks Classic Malt 1kg,Beverages,20,54,3,1865,0,0,3,1865
+14592,9592,1021,12592,2063,Stale Product,14:03.4,1198,Processed,Patanjali Ghee 1L,Grocery,14,63,6,1962,0,0,6,1962
+13703,8703,1004,11703,2011,Damaged Item,59:03.4,140,Processed,Tata Salt 1kg,Grocery,19,11,6,4745,0,0,6,4745
+9029,4029,1020,7029,2002,Stale Product,29:03.4,640,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,2,5,2125,0,0,5,2125
+15311,10311,1000,13311,2006,Stale Product,10:03.4,144,Processed,Amul Taaza Milk 1L,Dairy,29,6,7,2491,0,0,7,2491
+13403,8403,1050,11403,2047,Stale Product,25:03.4,495,Processed,Dabur Red Toothpaste 200g,Personal Care,12,47,5,1740,0,0,5,1740
+14696,9696,1001,12696,2028,Damaged Item,59:03.4,520,Processed,Amul Butter 500g,Dairy,27,28,4,1555,0,0,4,1555
+13263,8263,1005,11263,2024,Stale Product,15:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,24,4,630,0,0,4,630
+13307,8307,1025,11307,2028,Damaged Item,59:03.4,135,Processed,Dove Soap 125g,Personal Care,21,28,4,1555,0,0,4,1555
+12686,7686,1022,10686,2071,Stale Product,19:03.4,480,Processed,Fortune Sunflower Oil 1L,Grocery,20,71,5,2285,0,0,5,2285
+16776,11776,1011,14776,2039,Damaged Item,27:03.4,180,Processed,Bananas (12 pcs),Fruits,19,39,5,3560,0,0,5,3560
+16444,11444,1036,14444,2031,Stale Product,48:03.4,325,Processed,Frooti Mango Drink 1L,Beverages,28,31,5,1800,0,0,5,1800
+14488,9488,1035,12488,2022,Stale Product,49:03.4,450,Processed,Sprite 2L,Beverages,16,22,7,2100,0,0,7,2100
+16976,11976,1006,14976,2084,Damaged Item,03:03.4,14,Processed,Maggi Noodles 70g,Snacks,21,84,3,2380,0,0,3,2380
+9046,4046,1005,7046,2026,Stale Product,13:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,26,7,2930,0,0,7,2930
+10584,5584,1025,8584,2085,Stale Product,22:03.4,90,Processed,Dove Soap 125g,Personal Care,21,85,7,4247,0,0,7,4247
+9948,4948,1039,7948,2003,Stale Product,51:03.4,220,Processed,Eveready AA Batteries (4 pcs),Electronics,20,3,6,2062,0,0,6,2062
+14264,9264,1026,12264,2052,Damaged Item,58:03.4,897,Processed,Gillette Mach3 Razor,Personal Care,16,52,3,3525,0,0,3,3525
+9243,4243,1041,7243,2085,Stale Product,43:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,85,7,4247,0,0,7,4247
+16212,11212,1033,14212,2013,Stale Product,40:03.4,340,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,13,9,6727,0,0,9,6727
+9557,4557,1041,7557,2046,Stale Product,13:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,46,3,2800,0,0,3,2800
+8777,3777,1024,6777,2059,Damaged Item,05:03.4,1125,Processed,Bournvita 500g,Beverages,29,59,5,2780,0,0,5,2780
+17060,12060,1047,15060,2076,Damaged Item,25:03.4,1925,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,76,5,1855,0,0,5,1855
+14363,9363,1029,12363,2017,Damaged Item,07:03.4,1925,Processed,Horlicks Classic Malt 1kg,Beverages,20,17,1,200,0,0,1,200
+10543,5543,1000,8543,2006,Stale Product,07:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,6,7,2491,0,0,7,2491
+8460,3460,1039,6460,2040,Stale Product,27:03.4,220,Processed,Eveready AA Batteries (4 pcs),Electronics,20,40,4,900,0,0,4,900
+11996,6996,1006,9996,2015,Damaged Item,40:03.4,28,Processed,Maggi Noodles 70g,Snacks,21,15,6,3065,0,0,6,3065
+12801,7801,1003,10801,2030,Stale Product,09:03.4,510,Processed,Aashirvaad Atta 5kg,Grocery,18,30,6,4292,0,0,6,4292
+16327,11327,1009,14327,2032,Stale Product,17:03.4,175,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,32,3,1760,0,0,3,1760
+13304,8304,1038,11304,2063,Damaged Item,25:03.4,360,Processed,Coca-Cola 2L,Beverages,15,63,6,1962,0,0,6,1962
+12526,7526,1001,10526,2005,Damaged Item,19:03.4,520,Processed,Amul Butter 500g,Dairy,27,5,4,3535,0,0,4,3535
+10057,5057,1002,8057,2029,Stale Product,02:03.4,200,Processed,Mother Dairy Curd 400g,Dairy,17,29,9,4345,0,0,9,4345
+11451,6451,1032,9451,2054,Damaged Item,40:03.4,1280,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,54,3,1865,0,0,3,1865
+15563,10563,1025,13563,2042,Damaged Item,07:03.4,45,Processed,Dove Soap 125g,Personal Care,21,42,6,2535,0,0,6,2535
+12675,7675,1046,10675,2052,Damaged Item,35:03.4,360,Processed,Sprite 2L,Beverages,21,52,3,3525,0,0,3,3525
+15911,10911,1038,13911,2056,Stale Product,19:03.4,180,Processed,Coca-Cola 2L,Beverages,15,56,7,3594,0,0,7,3594
+8766,3766,1020,6766,2004,Damaged Item,52:03.4,320,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,4,7,5781,0,0,7,5781
+10968,5968,1031,8968,2039,Stale Product,53:03.4,520,Processed,Himalaya Face Wash 100ml,Personal Care,19,39,5,3560,0,0,5,3560
+15569,10569,1016,13569,2092,Stale Product,17:03.4,450,Processed,Nescafe Classic Coffee 100g,Beverages,21,92,6,3391,0,0,6,3391
+11722,6722,1004,9722,2088,Stale Product,59:03.4,28,Processed,Tata Salt 1kg,Grocery,19,88,4,1738,0,0,4,1738
+16425,11425,1031,14425,2031,Stale Product,54:03.4,260,Processed,Himalaya Face Wash 100ml,Personal Care,19,31,5,1800,0,0,5,1800
+16006,11006,1023,14006,2073,Stale Product,36:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,73,7,2970,0,0,7,2970
+16848,11848,1022,14848,2095,Stale Product,54:03.4,640,Processed,Fortune Sunflower Oil 1L,Grocery,20,95,4,1995,0,0,4,1995
+10010,5010,1015,8010,2033,Stale Product,47:03.4,345,Processed,Colgate Toothpaste 200g,Personal Care,22,33,5,1223,0,0,5,1223
+11487,6487,1003,9487,2012,Stale Product,18:03.4,510,Processed,Aashirvaad Atta 5kg,Grocery,18,12,7,5165,0,0,7,5165
+17619,12619,1011,15619,2063,Stale Product,33:03.4,60,Processed,Bananas (12 pcs),Fruits,19,63,6,1962,0,0,6,1962
+17130,12130,1041,15130,2005,Stale Product,05:03.4,1375,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,5,4,3535,0,0,4,3535
+17600,12600,1009,15600,2033,Damaged Item,35:03.4,140,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,33,5,1223,0,0,5,1223
+11690,6690,1040,9690,2011,Damaged Item,21:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,11,6,4745,0,0,6,4745
+8501,3501,1019,6501,2072,Damaged Item,52:03.4,995,Processed,Dabur Honey 500g,Grocery,18,72,4,1415,0,0,4,1415
+10642,5642,1014,8642,2054,Damaged Item,03:03.4,145,Processed,Dettol Handwash 750ml,Personal Care,13,54,3,1865,0,0,3,1865
+17401,12401,1032,15401,2069,Stale Product,15:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,69,4,2970,0,0,4,2970
+10158,5158,1001,8158,2052,Stale Product,29:03.4,1300,Processed,Amul Butter 500g,Dairy,27,52,3,3525,0,0,3,3525
+9366,4366,1002,7366,2092,Damaged Item,30:03.4,160,Processed,Mother Dairy Curd 400g,Dairy,17,92,6,3391,0,0,6,3391
+10611,5611,1041,8611,2001,Stale Product,11:03.4,825,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,1,3,1461,0,0,3,1461
+12174,7174,1043,10174,2065,Damaged Item,44:03.4,560,Processed,Good Day Butter Cookies 600g,Snacks,18,65,6,1116,0,0,6,1116
+16609,11609,1003,14609,2076,Stale Product,26:03.4,510,Processed,Aashirvaad Atta 5kg,Grocery,18,76,5,1855,0,0,5,1855
+14740,9740,1001,12740,2062,Damaged Item,30:03.4,260,Processed,Amul Butter 500g,Dairy,27,62,3,1080,0,0,3,1080
+16737,11737,1019,14737,2037,Damaged Item,45:03.4,995,Processed,Dabur Honey 500g,Grocery,18,37,7,1860,0,0,7,1860
+10127,5127,1044,8127,2088,Damaged Item,32:03.4,680,Processed,Brooke Bond Red Label 500g,Beverages,18,88,4,1738,0,0,4,1738
+12789,7789,1034,10789,2049,Stale Product,52:03.4,420,Processed,Lizol Floor Cleaner 1L,Grocery,23,49,7,2340,0,0,7,2340
+17906,12906,1001,15906,2004,Damaged Item,52:03.4,1300,Processed,Amul Butter 500g,Dairy,27,4,7,5781,0,0,7,5781
+12956,7956,1005,10956,2083,Damaged Item,30:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,83,6,1740,0,0,6,1740
+11015,6015,1025,9015,2092,Damaged Item,08:03.4,45,Processed,Dove Soap 125g,Personal Care,21,92,6,3391,0,0,6,3391
+12790,7790,1041,10790,2097,Stale Product,14:03.4,275,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,97,7,3164,0,0,7,3164
+16792,11792,1012,14792,2028,Damaged Item,49:03.4,360,Processed,Saffola Gold Oil 1L,Grocery,17,28,4,1555,0,0,4,1555
+12382,7382,1048,10382,2022,Damaged Item,55:03.4,110,Processed,Real Orange Juice 1L,Beverages,17,22,7,2100,0,0,7,2100
+17639,12639,1035,15639,2040,Stale Product,30:03.4,180,Processed,Sprite 2L,Beverages,16,40,4,900,0,0,4,900
+11443,6443,1034,9443,2061,Stale Product,31:03.4,1050,Processed,Lizol Floor Cleaner 1L,Grocery,23,61,7,4815,0,0,7,4815
+11293,6293,1001,9293,2056,Stale Product,12:03.4,260,Processed,Amul Butter 500g,Dairy,27,56,7,3594,0,0,7,3594
+12808,7808,1034,10808,2088,Stale Product,18:03.4,840,Processed,Lizol Floor Cleaner 1L,Grocery,23,88,4,1738,0,0,4,1738
+11937,6937,1012,9937,2028,Stale Product,46:03.4,540,Processed,Saffola Gold Oil 1L,Grocery,17,28,4,1555,0,0,4,1555
+10900,5900,1013,8900,2008,Stale Product,07:03.4,210,Processed,Kellogg's Corn Flakes 500g,Grocery,21,8,8,4080,0,0,8,4080
+10924,5924,1001,8924,2008,Stale Product,51:03.4,520,Processed,Amul Butter 500g,Dairy,27,8,8,4080,0,0,8,4080
+13879,8879,1001,11879,2075,Damaged Item,00:03.4,520,Processed,Amul Butter 500g,Dairy,27,75,4,833,0,0,4,833
+15465,10465,1031,13465,2005,Stale Product,49:03.4,390,Processed,Himalaya Face Wash 100ml,Personal Care,19,5,4,3535,0,0,4,3535
+16462,11462,1012,14462,2028,Stale Product,28:03.4,360,Processed,Saffola Gold Oil 1L,Grocery,17,28,4,1555,0,0,4,1555
+17114,12114,1047,15114,2058,Damaged Item,56:03.4,385,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,58,5,2517,0,0,5,2517
+12930,7930,1007,10930,2026,Damaged Item,43:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,26,7,2930,0,0,7,2930
+8648,3648,1011,6648,2047,Damaged Item,22:03.4,300,Processed,Bananas (12 pcs),Fruits,19,47,5,1740,0,0,5,1740
+11563,6563,1042,9563,2027,Stale Product,33:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,27,4,1655,0,0,4,1655
+9673,4673,1033,7673,2014,Damaged Item,36:03.4,85,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,14,4,1800,0,0,4,1800
+12723,7723,1029,10723,2079,Stale Product,41:03.4,1155,Processed,Horlicks Classic Malt 1kg,Beverages,20,79,3,2255,0,0,3,2255
+10580,5580,1031,8580,2024,Stale Product,00:03.4,260,Processed,Himalaya Face Wash 100ml,Personal Care,19,24,4,630,0,0,4,630
+11339,6339,1022,9339,2003,Stale Product,11:03.4,480,Processed,Fortune Sunflower Oil 1L,Grocery,20,3,6,2062,0,0,6,2062
+14171,9171,1005,12171,2085,Damaged Item,51:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,85,7,4247,0,0,7,4247
+17729,12729,1049,15729,2067,Damaged Item,41:03.4,240,Processed,Gillette Shaving Foam 200ml,Personal Care,21,67,2,4193,0,0,2,4193
+15723,10723,1021,13723,2033,Damaged Item,21:03.4,599,Processed,Patanjali Ghee 1L,Grocery,14,33,5,1223,0,0,5,1223
+17147,12147,1015,15147,2027,Stale Product,33:03.4,575,Processed,Colgate Toothpaste 200g,Personal Care,22,27,4,1655,0,0,4,1655
+17987,12987,1042,15987,2006,Stale Product,57:03.4,720,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,6,7,2491,0,0,7,2491
+11934,6934,1032,9934,2013,Stale Product,38:03.4,1280,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,13,9,6727,0,0,9,6727
+13244,8244,1047,11244,2081,Damaged Item,54:03.4,385,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,81,9,4529,0,0,9,4529
+9328,4328,1039,7328,2077,Stale Product,02:03.4,110,Processed,Eveready AA Batteries (4 pcs),Electronics,20,77,6,3711,0,0,6,3711
+11289,6289,1022,9289,2026,Damaged Item,32:03.4,320,Processed,Fortune Sunflower Oil 1L,Grocery,20,26,7,2930,0,0,7,2930
+13962,8962,1004,11962,2099,Damaged Item,51:03.4,112,Processed,Tata Salt 1kg,Grocery,19,99,1,950,0,0,1,950
+9800,4800,1006,7800,2011,Damaged Item,35:03.4,28,Processed,Maggi Noodles 70g,Snacks,21,11,6,4745,0,0,6,4745
+8391,3391,1049,6391,2060,Damaged Item,35:03.4,240,Processed,Gillette Shaving Foam 200ml,Personal Care,21,60,7,2869,0,0,7,2869
+17863,12863,1032,15863,2081,Stale Product,15:03.4,1280,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,81,9,4529,0,0,9,4529
+14905,9905,1047,12905,2092,Stale Product,49:03.4,1155,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,92,6,3391,0,0,6,3391
+11189,6189,1000,9189,2014,Stale Product,45:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,14,4,1800,0,0,4,1800
+12615,7615,1026,10615,2082,Stale Product,33:03.4,1495,Processed,Gillette Mach3 Razor,Personal Care,16,82,1,1495,0,0,1,1495
+8008,3008,1025,6008,2081,Stale Product,36:03.4,180,Processed,Dove Soap 125g,Personal Care,21,81,9,4529,0,0,9,4529
+17251,12251,1029,15251,2085,Stale Product,46:03.4,1155,Processed,Horlicks Classic Malt 1kg,Beverages,20,85,7,4247,0,0,7,4247
+11413,6413,1050,9413,2063,Stale Product,48:03.4,198,Processed,Dabur Red Toothpaste 200g,Personal Care,12,63,6,1962,0,0,6,1962
+9225,4225,1018,7225,2048,Stale Product,38:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,48,6,3149,0,0,6,3149
+13042,8042,1024,11042,2045,Damaged Item,34:03.4,900,Processed,Bournvita 500g,Beverages,29,45,5,2313,0,0,5,2313
+10089,5089,1006,8089,2048,Stale Product,30:03.4,14,Processed,Maggi Noodles 70g,Snacks,21,48,6,3149,0,0,6,3149
+8912,3912,1042,6912,2066,Stale Product,18:03.4,900,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,66,7,3908,0,0,7,3908
+10007,5007,1019,8007,2016,Stale Product,34:03.4,398,Processed,Dabur Honey 500g,Grocery,18,16,10,5503,0,0,10,5503
+14470,9470,1000,12470,2006,Stale Product,44:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,6,7,2491,0,0,7,2491
+10146,5146,1033,8146,2029,Stale Product,55:03.4,340,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,29,9,4345,0,0,9,4345
+11909,6909,1005,9909,2081,Stale Product,51:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,81,9,4529,0,0,9,4529
+16552,11552,1049,14552,2053,Damaged Item,33:03.4,1200,Processed,Gillette Shaving Foam 200ml,Personal Care,21,53,7,3841,0,0,7,3841
+16643,11643,1045,14643,2062,Stale Product,53:03.4,160,Processed,Parle-G Biscuits 800g,Snacks,17,62,3,1080,0,0,3,1080
+12348,7348,1031,10348,2043,Stale Product,45:03.4,130,Processed,Himalaya Face Wash 100ml,Personal Care,19,43,3,589,0,0,3,589
+12852,7852,1040,10852,2069,Stale Product,58:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,69,4,2970,0,0,4,2970
+17572,12572,1039,15572,2033,Stale Product,24:03.4,220,Processed,Eveready AA Batteries (4 pcs),Electronics,20,33,5,1223,0,0,5,1223
+10988,5988,1007,8988,2051,Stale Product,00:03.4,100,Processed,Lays Classic Salted 52g,Snacks,22,51,5,1625,0,0,5,1625
+10392,5392,1036,8392,2020,Damaged Item,04:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,20,5,1194,0,0,5,1194
+16695,11695,1046,14695,2083,Damaged Item,27:03.4,270,Processed,Sprite 2L,Beverages,21,83,6,1740,0,0,6,1740
+17726,12726,1046,15726,2050,Stale Product,16:03.4,360,Processed,Sprite 2L,Beverages,21,50,4,1910,0,0,4,1910
+9664,4664,1023,7664,2041,Damaged Item,19:03.4,270,Processed,Haldiram's Bhujia 400g,Snacks,23,41,4,1299,0,0,4,1299
+17361,12361,1014,15361,2075,Stale Product,24:03.4,145,Processed,Dettol Handwash 750ml,Personal Care,13,75,4,833,0,0,4,833
+10975,5975,1050,8975,2001,Stale Product,08:03.4,396,Processed,Dabur Red Toothpaste 200g,Personal Care,12,1,3,1461,0,0,3,1461
+14598,9598,1010,12598,2035,Stale Product,53:03.4,900,Processed,Golden Apples 1kg,Fruits,18,35,3,1345,0,0,3,1345
+14625,9625,1019,12625,2041,Stale Product,40:03.4,199,Processed,Dabur Honey 500g,Grocery,18,41,4,1299,0,0,4,1299
+10823,5823,1010,8823,2060,Stale Product,50:03.4,900,Processed,Golden Apples 1kg,Fruits,18,60,7,2869,0,0,7,2869
+15057,10057,1036,13057,2091,Stale Product,48:03.4,195,Processed,Frooti Mango Drink 1L,Beverages,28,91,9,2593,0,0,9,2593
+10680,5680,1033,8680,2087,Stale Product,21:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,87,6,1715,0,0,6,1715
+11808,6808,1000,9808,2000,Damaged Item,05:03.4,144,Processed,Amul Taaza Milk 1L,Dairy,29,0,5,4235,0,0,5,4235
+16684,11684,1009,14684,2019,Stale Product,56:03.4,70,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,19,9,3970,0,0,9,3970
+8438,3438,1040,6438,2053,Damaged Item,02:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,53,7,3841,0,0,7,3841
+14569,9569,1000,12569,2019,Damaged Item,35:03.4,72,Processed,Amul Taaza Milk 1L,Dairy,29,19,9,3970,0,0,9,3970
+16090,11090,1023,14090,2089,Damaged Item,53:03.4,540,Processed,Haldiram's Bhujia 400g,Snacks,23,89,4,1540,0,0,4,1540
+16952,11952,1048,14952,2028,Stale Product,49:03.4,220,Processed,Real Orange Juice 1L,Beverages,17,28,4,1555,0,0,4,1555
+15565,10565,1048,13565,2003,Stale Product,49:03.4,550,Processed,Real Orange Juice 1L,Beverages,17,3,6,2062,0,0,6,2062
+16881,11881,1036,14881,2050,Damaged Item,42:03.4,325,Processed,Frooti Mango Drink 1L,Beverages,28,50,4,1910,0,0,4,1910
+17759,12759,1022,15759,2038,Damaged Item,10:03.4,160,Processed,Fortune Sunflower Oil 1L,Grocery,20,38,3,1595,0,0,3,1595
+14711,9711,1018,12711,2073,Damaged Item,46:03.4,380,Processed,Surf Excel Matic 1kg,Grocery,24,73,7,2970,0,0,7,2970
+12298,7298,1012,10298,2016,Damaged Item,43:03.4,540,Processed,Saffola Gold Oil 1L,Grocery,17,16,10,5503,0,0,10,5503
+13890,8890,1034,11890,2037,Damaged Item,04:03.4,210,Processed,Lizol Floor Cleaner 1L,Grocery,23,37,7,1860,0,0,7,1860
+15683,10683,1007,13683,2086,Stale Product,24:03.4,60,Processed,Lays Classic Salted 52g,Snacks,22,86,6,1710,0,0,6,1710
+13724,8724,1001,11724,2056,Stale Product,13:03.4,260,Processed,Amul Butter 500g,Dairy,27,56,7,3594,0,0,7,3594
+9321,4321,1005,7321,2010,Damaged Item,08:03.4,180,Processed,India Gate Basmati Rice 1kg,Grocery,18,10,10,5120,0,0,10,5120
+16963,11963,1005,14963,2059,Stale Product,19:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,59,5,2780,0,0,5,2780
+9706,4706,1007,7706,2002,Damaged Item,19:03.4,100,Processed,Lays Classic Salted 52g,Snacks,22,2,5,2125,0,0,5,2125
+14269,9269,1032,12269,2016,Stale Product,42:03.4,320,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,16,10,5503,0,0,10,5503
+13293,8293,1033,11293,2022,Damaged Item,43:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,22,7,2100,0,0,7,2100
+12073,7073,1000,10073,2058,Damaged Item,26:03.4,288,Processed,Amul Taaza Milk 1L,Dairy,29,58,5,2517,0,0,5,2517
+17262,12262,1036,15262,2080,Stale Product,53:03.4,260,Processed,Frooti Mango Drink 1L,Beverages,28,80,6,1450,0,0,6,1450
+13924,8924,1009,11924,2003,Stale Product,56:03.4,35,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,3,6,2062,0,0,6,2062
+11612,6612,1001,9612,2000,Stale Product,08:03.4,780,Processed,Amul Butter 500g,Dairy,27,0,5,4235,0,0,5,4235
+10705,5705,1003,8705,2071,Damaged Item,53:03.4,1275,Processed,Aashirvaad Atta 5kg,Grocery,18,71,5,2285,0,0,5,2285
+8019,3019,1033,6019,2077,Damaged Item,08:03.4,425,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,77,6,3711,0,0,6,3711
+17070,12070,1006,15070,2007,Damaged Item,18:03.4,56,Processed,Maggi Noodles 70g,Snacks,21,7,5,1545,0,0,5,1545
+13031,8031,1024,11031,2062,Damaged Item,32:03.4,225,Processed,Bournvita 500g,Beverages,29,62,3,1080,0,0,3,1080
+16507,11507,1036,14507,2016,Damaged Item,44:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,16,10,5503,0,0,10,5503
+10233,5233,1007,8233,2027,Stale Product,14:03.4,20,Processed,Lays Classic Salted 52g,Snacks,22,27,4,1655,0,0,4,1655
+8771,3771,1003,6771,2083,Damaged Item,11:03.4,255,Processed,Aashirvaad Atta 5kg,Grocery,18,83,6,1740,0,0,6,1740
+10644,5644,1026,8644,2084,Damaged Item,44:03.4,299,Processed,Gillette Mach3 Razor,Personal Care,16,84,3,2380,0,0,3,2380
+11740,6740,1017,9740,2090,Damaged Item,12:03.4,1200,Processed,Tata Tea Premium 500g,Beverages,12,90,4,1091,0,0,4,1091
+8011,3011,1034,6011,2005,Stale Product,27:03.4,1050,Processed,Lizol Floor Cleaner 1L,Grocery,23,5,4,3535,0,0,4,3535
+10044,5044,1020,8044,2016,Stale Product,27:03.4,160,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,16,10,5503,0,0,10,5503
+10370,5370,1019,8370,2096,Stale Product,37:03.4,398,Processed,Dabur Honey 500g,Grocery,18,96,10,5020,0,0,10,5020
+13188,8188,1017,11188,2046,Damaged Item,48:03.4,1200,Processed,Tata Tea Premium 500g,Beverages,12,46,3,2800,0,0,3,2800
+8145,3145,1044,6145,2007,Damaged Item,47:03.4,340,Processed,Brooke Bond Red Label 500g,Beverages,18,7,5,1545,0,0,5,1545
+8417,3417,1026,6417,2056,Stale Product,56:03.4,299,Processed,Gillette Mach3 Razor,Personal Care,16,56,7,3594,0,0,7,3594
+16557,11557,1006,14557,2086,Damaged Item,56:03.4,56,Processed,Maggi Noodles 70g,Snacks,21,86,6,1710,0,0,6,1710
+8999,3999,1029,6999,2039,Stale Product,47:03.4,1540,Processed,Horlicks Classic Malt 1kg,Beverages,20,39,5,3560,0,0,5,3560
+17900,12900,1044,15900,2000,Stale Product,15:03.4,510,Processed,Brooke Bond Red Label 500g,Beverages,18,0,5,4235,0,0,5,4235
+12778,7778,1000,10778,2065,Stale Product,42:03.4,216,Processed,Amul Taaza Milk 1L,Dairy,29,65,6,1116,0,0,6,1116
+13454,8454,1018,11454,2097,Stale Product,30:03.4,570,Processed,Surf Excel Matic 1kg,Grocery,24,97,7,3164,0,0,7,3164
+11025,6025,1008,9025,2008,Stale Product,14:03.4,600,Processed,Britannia Good Day Cashew 600g,Snacks,19,8,8,4080,0,0,8,4080
+8458,3458,1038,6458,2089,Stale Product,56:03.4,360,Processed,Coca-Cola 2L,Beverages,15,89,4,1540,0,0,4,1540
+10331,5331,1016,8331,2026,Stale Product,04:03.4,750,Processed,Nescafe Classic Coffee 100g,Beverages,21,26,7,2930,0,0,7,2930
+15749,10749,1047,13749,2028,Damaged Item,08:03.4,385,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,28,4,1555,0,0,4,1555
+17404,12404,1023,15404,2053,Damaged Item,00:03.4,270,Processed,Haldiram's Bhujia 400g,Snacks,23,53,7,3841,0,0,7,3841
+14224,9224,1030,12224,2038,Stale Product,57:03.4,525,Processed,Johnson's Baby Powder 400g,Personal Care,22,38,3,1595,0,0,3,1595
+17865,12865,1000,15865,2055,Damaged Item,31:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,55,6,1723,0,0,6,1723
+8625,3625,1032,6625,2081,Stale Product,00:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,81,9,4529,0,0,9,4529
+13028,8028,1030,11028,2003,Damaged Item,01:03.4,875,Processed,Johnson's Baby Powder 400g,Personal Care,22,3,6,2062,0,0,6,2062
+9999,4999,1019,7999,2045,Stale Product,47:03.4,398,Processed,Dabur Honey 500g,Grocery,18,45,5,2313,0,0,5,2313
+17242,12242,1020,15242,2054,Stale Product,16:03.4,160,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,54,3,1865,0,0,3,1865
+12683,7683,1003,10683,2037,Damaged Item,31:03.4,1020,Processed,Aashirvaad Atta 5kg,Grocery,18,37,7,1860,0,0,7,1860
+17367,12367,1029,15367,2067,Damaged Item,59:03.4,1925,Processed,Horlicks Classic Malt 1kg,Beverages,20,67,2,4193,0,0,2,4193
+15106,10106,1001,13106,2006,Stale Product,12:03.4,520,Processed,Amul Butter 500g,Dairy,27,6,7,2491,0,0,7,2491
+11427,6427,1044,9427,2045,Damaged Item,47:03.4,170,Processed,Brooke Bond Red Label 500g,Beverages,18,45,5,2313,0,0,5,2313
+15564,10564,1018,13564,2073,Damaged Item,44:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,73,7,2970,0,0,7,2970
+12937,7937,1004,10937,2058,Stale Product,59:03.4,112,Processed,Tata Salt 1kg,Grocery,19,58,5,2517,0,0,5,2517
+12138,7138,1007,10138,2015,Damaged Item,00:03.4,80,Processed,Lays Classic Salted 52g,Snacks,22,15,6,3065,0,0,6,3065
+15976,10976,1023,13976,2088,Damaged Item,05:03.4,135,Processed,Haldiram's Bhujia 400g,Snacks,23,88,4,1738,0,0,4,1738
+14656,9656,1020,12656,2079,Damaged Item,25:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,79,3,2255,0,0,3,2255
+17203,12203,1039,15203,2056,Stale Product,12:03.4,330,Processed,Eveready AA Batteries (4 pcs),Electronics,20,56,7,3594,0,0,7,3594
+15219,10219,1041,13219,2052,Stale Product,32:03.4,1100,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,52,3,3525,0,0,3,3525
+14797,9797,1035,12797,2091,Damaged Item,06:03.4,180,Processed,Sprite 2L,Beverages,16,91,9,2593,0,0,9,2593
+11403,6403,1023,9403,2009,Damaged Item,59:03.4,135,Processed,Haldiram's Bhujia 400g,Snacks,23,9,5,2485,0,0,5,2485
+9526,4526,1049,7526,2063,Damaged Item,41:03.4,720,Processed,Gillette Shaving Foam 200ml,Personal Care,21,63,6,1962,0,0,6,1962
+8883,3883,1035,6883,2047,Stale Product,19:03.4,90,Processed,Sprite 2L,Beverages,16,47,5,1740,0,0,5,1740
+17397,12397,1037,15397,2052,Damaged Item,34:03.4,700,Processed,Dabur Chyawanprash 1kg,Health,10,52,3,3525,0,0,3,3525
+8324,3324,1038,6324,2071,Damaged Item,33:03.4,270,Processed,Coca-Cola 2L,Beverages,15,71,5,2285,0,0,5,2285
+16278,11278,1027,14278,2010,Stale Product,35:03.4,495,Processed,Real Mixed Fruit Juice 1L,Beverages,21,10,10,5120,0,0,10,5120
+15908,10908,1018,13908,2058,Stale Product,03:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,58,5,2517,0,0,5,2517
+10581,5581,1025,8581,2008,Stale Product,41:03.4,225,Processed,Dove Soap 125g,Personal Care,21,8,8,4080,0,0,8,4080
+15753,10753,1041,13753,2024,Damaged Item,36:03.4,275,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,24,4,630,0,0,4,630
+13824,8824,1049,11824,2061,Stale Product,52:03.4,1200,Processed,Gillette Shaving Foam 200ml,Personal Care,21,61,7,4815,0,0,7,4815
+10637,5637,1002,8637,2029,Damaged Item,15:03.4,160,Processed,Mother Dairy Curd 400g,Dairy,17,29,9,4345,0,0,9,4345
+8613,3613,1009,6613,2037,Stale Product,13:03.4,140,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,37,7,1860,0,0,7,1860
+14154,9154,1036,12154,2044,Damaged Item,31:03.4,195,Processed,Frooti Mango Drink 1L,Beverages,28,44,3,1977,0,0,3,1977
+17228,12228,1023,15228,2071,Stale Product,50:03.4,270,Processed,Haldiram's Bhujia 400g,Snacks,23,71,5,2285,0,0,5,2285
+13813,8813,1025,11813,2078,Damaged Item,57:03.4,90,Processed,Dove Soap 125g,Personal Care,21,78,3,490,0,0,3,490
+9694,4694,1015,7694,2018,Stale Product,36:03.4,115,Processed,Colgate Toothpaste 200g,Personal Care,22,18,9,4243,0,0,9,4243
+12247,7247,1029,10247,2034,Damaged Item,37:03.4,1540,Processed,Horlicks Classic Malt 1kg,Beverages,20,34,4,2616,0,0,4,2616
+14121,9121,1024,12121,2057,Damaged Item,11:03.4,1125,Processed,Bournvita 500g,Beverages,29,57,1,135,0,0,1,135
+15931,10931,1023,13931,2041,Stale Product,32:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,41,4,1299,0,0,4,1299
+8326,3326,1008,6326,2084,Stale Product,04:03.4,450,Processed,Britannia Good Day Cashew 600g,Snacks,19,84,3,2380,0,0,3,2380
+16266,11266,1032,14266,2044,Stale Product,30:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,44,3,1977,0,0,3,1977
+8973,3973,1024,6973,2042,Stale Product,02:03.4,1125,Processed,Bournvita 500g,Beverages,29,42,6,2535,0,0,6,2535
+13912,8912,1037,11912,2004,Stale Product,54:03.4,1400,Processed,Dabur Chyawanprash 1kg,Health,10,4,7,5781,0,0,7,5781
+15638,10638,1022,13638,2006,Damaged Item,02:03.4,320,Processed,Fortune Sunflower Oil 1L,Grocery,20,6,7,2491,0,0,7,2491
+16457,11457,1019,14457,2017,Damaged Item,38:03.4,199,Processed,Dabur Honey 500g,Grocery,18,17,1,200,0,0,1,200
+8482,3482,1002,6482,2048,Damaged Item,37:03.4,200,Processed,Mother Dairy Curd 400g,Dairy,17,48,6,3149,0,0,6,3149
+11575,6575,1041,9575,2083,Stale Product,42:03.4,275,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,83,6,1740,0,0,6,1740
+14508,9508,1010,12508,2061,Damaged Item,14:03.4,540,Processed,Golden Apples 1kg,Fruits,18,61,7,4815,0,0,7,4815
+14260,9260,1046,12260,2086,Stale Product,05:03.4,90,Processed,Sprite 2L,Beverages,21,86,6,1710,0,0,6,1710
+16753,11753,1019,14753,2077,Stale Product,00:03.4,995,Processed,Dabur Honey 500g,Grocery,18,77,6,3711,0,0,6,3711
+10240,5240,1030,8240,2034,Stale Product,30:03.4,700,Processed,Johnson's Baby Powder 400g,Personal Care,22,34,4,2616,0,0,4,2616
+15921,10921,1036,13921,2091,Stale Product,58:03.4,130,Processed,Frooti Mango Drink 1L,Beverages,28,91,9,2593,0,0,9,2593
+15501,10501,1044,13501,2076,Stale Product,17:03.4,170,Processed,Brooke Bond Red Label 500g,Beverages,18,76,5,1855,0,0,5,1855
+17180,12180,1044,15180,2014,Damaged Item,39:03.4,510,Processed,Brooke Bond Red Label 500g,Beverages,18,14,4,1800,0,0,4,1800
+8332,3332,1002,6332,2017,Stale Product,47:03.4,200,Processed,Mother Dairy Curd 400g,Dairy,17,17,1,200,0,0,1,200
+16298,11298,1005,14298,2077,Stale Product,16:03.4,720,Processed,India Gate Basmati Rice 1kg,Grocery,18,77,6,3711,0,0,6,3711
+11602,6602,1016,9602,2094,Damaged Item,49:03.4,300,Processed,Nescafe Classic Coffee 100g,Beverages,21,94,4,1029,0,0,4,1029
+12292,7292,1009,10292,2096,Damaged Item,42:03.4,70,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,96,10,5020,0,0,10,5020
+11683,6683,1024,9683,2096,Stale Product,44:03.4,450,Processed,Bournvita 500g,Beverages,29,96,10,5020,0,0,10,5020
+15895,10895,1036,13895,2040,Stale Product,09:03.4,260,Processed,Frooti Mango Drink 1L,Beverages,28,40,4,900,0,0,4,900
+15652,10652,1036,13652,2058,Stale Product,39:03.4,325,Processed,Frooti Mango Drink 1L,Beverages,28,58,5,2517,0,0,5,2517
+17014,12014,1022,15014,2061,Damaged Item,52:03.4,320,Processed,Fortune Sunflower Oil 1L,Grocery,20,61,7,4815,0,0,7,4815
+11613,6613,1027,9613,2031,Damaged Item,42:03.4,99,Processed,Real Mixed Fruit Juice 1L,Beverages,21,31,5,1800,0,0,5,1800
+8059,3059,1027,6059,2083,Stale Product,15:03.4,495,Processed,Real Mixed Fruit Juice 1L,Beverages,21,83,6,1740,0,0,6,1740
+17017,12017,1020,15017,2002,Damaged Item,33:03.4,480,Processed,Cadbury Dairy Milk Silk 150g,Snacks,21,2,5,2125,0,0,5,2125
+9977,4977,1025,7977,2057,Stale Product,12:03.4,135,Processed,Dove Soap 125g,Personal Care,21,57,1,135,0,0,1,135
+17673,12673,1031,15673,2083,Damaged Item,06:03.4,650,Processed,Himalaya Face Wash 100ml,Personal Care,19,83,6,1740,0,0,6,1740
+15339,10339,1010,13339,2076,Stale Product,28:03.4,180,Processed,Golden Apples 1kg,Fruits,18,76,5,1855,0,0,5,1855
+13427,8427,1023,11427,2015,Stale Product,18:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,15,6,3065,0,0,6,3065
+8514,3514,1045,6514,2080,Stale Product,32:03.4,80,Processed,Parle-G Biscuits 800g,Snacks,17,80,6,1450,0,0,6,1450
+15588,10588,1025,13588,2021,Damaged Item,09:03.4,45,Processed,Dove Soap 125g,Personal Care,21,21,6,1647,0,0,6,1647
+16677,11677,1018,14677,2088,Damaged Item,29:03.4,190,Processed,Surf Excel Matic 1kg,Grocery,24,88,4,1738,0,0,4,1738
+17090,12090,1032,15090,2060,Damaged Item,55:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,60,7,2869,0,0,7,2869
+8887,3887,1009,6887,2050,Damaged Item,11:03.4,105,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,50,4,1910,0,0,4,1910
+17284,12284,1024,15284,2052,Damaged Item,39:03.4,225,Processed,Bournvita 500g,Beverages,29,52,3,3525,0,0,3,3525
+12957,7957,1037,10957,2078,Damaged Item,08:03.4,700,Processed,Dabur Chyawanprash 1kg,Health,10,78,3,490,0,0,3,490
+15726,10726,1030,13726,2045,Stale Product,53:03.4,875,Processed,Johnson's Baby Powder 400g,Personal Care,22,45,5,2313,0,0,5,2313
+13686,8686,1027,11686,2050,Damaged Item,47:03.4,198,Processed,Real Mixed Fruit Juice 1L,Beverages,21,50,4,1910,0,0,4,1910
+10994,5994,1049,8994,2034,Damaged Item,59:03.4,720,Processed,Gillette Shaving Foam 200ml,Personal Care,21,34,4,2616,0,0,4,2616
+15789,10789,1004,13789,2018,Stale Product,56:03.4,140,Processed,Tata Salt 1kg,Grocery,19,18,9,4243,0,0,9,4243
+11631,6631,1049,9631,2088,Stale Product,13:03.4,720,Processed,Gillette Shaving Foam 200ml,Personal Care,21,88,4,1738,0,0,4,1738
+15963,10963,1050,13963,2043,Stale Product,07:03.4,99,Processed,Dabur Red Toothpaste 200g,Personal Care,12,43,3,589,0,0,3,589
+14254,9254,1041,12254,2062,Damaged Item,25:03.4,825,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,62,3,1080,0,0,3,1080
+13544,8544,1029,11544,2029,Stale Product,17:03.4,1925,Processed,Horlicks Classic Malt 1kg,Beverages,20,29,9,4345,0,0,9,4345
+11051,6051,1022,9051,2061,Damaged Item,24:03.4,640,Processed,Fortune Sunflower Oil 1L,Grocery,20,61,7,4815,0,0,7,4815
+13429,8429,1011,11429,2075,Damaged Item,19:03.4,60,Processed,Bananas (12 pcs),Fruits,19,75,4,833,0,0,4,833
+9177,4177,1022,7177,2063,Damaged Item,30:03.4,160,Processed,Fortune Sunflower Oil 1L,Grocery,20,63,6,1962,0,0,6,1962
+8097,3097,1032,6097,2063,Damaged Item,20:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,63,6,1962,0,0,6,1962
+17257,12257,1032,15257,2040,Damaged Item,03:03.4,1600,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,40,4,900,0,0,4,900
+11783,6783,1045,9783,2097,Damaged Item,07:03.4,320,Processed,Parle-G Biscuits 800g,Snacks,17,97,7,3164,0,0,7,3164
+13701,8701,1044,11701,2026,Damaged Item,27:03.4,510,Processed,Brooke Bond Red Label 500g,Beverages,18,26,7,2930,0,0,7,2930
+13910,8910,1046,11910,2086,Stale Product,59:03.4,270,Processed,Sprite 2L,Beverages,21,86,6,1710,0,0,6,1710
+9130,4130,1028,7130,2086,Stale Product,32:03.4,600,Processed,Catch Black Pepper 100g,Grocery,12,86,6,1710,0,0,6,1710
+11390,6390,1036,9390,2076,Damaged Item,01:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,76,5,1855,0,0,5,1855
+17475,12475,1025,15475,2065,Stale Product,13:03.4,135,Processed,Dove Soap 125g,Personal Care,21,65,6,1116,0,0,6,1116
+10278,5278,1036,8278,2004,Damaged Item,15:03.4,195,Processed,Frooti Mango Drink 1L,Beverages,28,4,7,5781,0,0,7,5781
+15781,10781,1039,13781,2053,Damaged Item,37:03.4,220,Processed,Eveready AA Batteries (4 pcs),Electronics,20,53,7,3841,0,0,7,3841
+10574,5574,1042,8574,2016,Damaged Item,47:03.4,360,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,16,10,5503,0,0,10,5503
+17340,12340,1037,15340,2093,Damaged Item,49:03.4,1400,Processed,Dabur Chyawanprash 1kg,Health,10,93,2,850,0,0,2,850
+12875,7875,1019,10875,2094,Stale Product,46:03.4,199,Processed,Dabur Honey 500g,Grocery,18,94,4,1029,0,0,4,1029
+15592,10592,1007,13592,2038,Stale Product,07:03.4,20,Processed,Lays Classic Salted 52g,Snacks,22,38,3,1595,0,0,3,1595
+12627,7627,1021,10627,2045,Damaged Item,44:03.4,2396,Processed,Patanjali Ghee 1L,Grocery,14,45,5,2313,0,0,5,2313
+8591,3591,1042,6591,2086,Stale Product,58:03.4,540,Processed,Kissan Mixed Fruit Jam 500g,Grocery,24,86,6,1710,0,0,6,1710
+8386,3386,1047,6386,2012,Stale Product,42:03.4,385,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,12,7,5165,0,0,7,5165
+16807,11807,1028,14807,2081,Damaged Item,21:03.4,450,Processed,Catch Black Pepper 100g,Grocery,12,81,9,4529,0,0,9,4529
+13146,8146,1026,11146,2020,Stale Product,56:03.4,299,Processed,Gillette Mach3 Razor,Personal Care,16,20,5,1194,0,0,5,1194
+9896,4896,1037,7896,2016,Stale Product,58:03.4,1750,Processed,Dabur Chyawanprash 1kg,Health,10,16,10,5503,0,0,10,5503
+10014,5014,1009,8014,2052,Damaged Item,56:03.4,175,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,52,3,3525,0,0,3,3525
+9851,4851,1036,7851,2065,Stale Product,54:03.4,65,Processed,Frooti Mango Drink 1L,Beverages,28,65,6,1116,0,0,6,1116
+11812,6812,1034,9812,2054,Stale Product,09:03.4,210,Processed,Lizol Floor Cleaner 1L,Grocery,23,54,3,1865,0,0,3,1865
+14845,9845,1011,12845,2039,Damaged Item,26:03.4,240,Processed,Bananas (12 pcs),Fruits,19,39,5,3560,0,0,5,3560
+14999,9999,1028,12999,2049,Damaged Item,46:03.4,150,Processed,Catch Black Pepper 100g,Grocery,12,49,7,2340,0,0,7,2340
+15506,10506,1023,13506,2036,Stale Product,33:03.4,135,Processed,Haldiram's Bhujia 400g,Snacks,23,36,7,2930,0,0,7,2930
+12296,7296,1024,10296,2062,Damaged Item,28:03.4,225,Processed,Bournvita 500g,Beverages,29,62,3,1080,0,0,3,1080
+16164,11164,1001,14164,2001,Damaged Item,25:03.4,780,Processed,Amul Butter 500g,Dairy,27,1,3,1461,0,0,3,1461
+16878,11878,1040,14878,2045,Stale Product,54:03.4,640,Processed,Sensodyne Toothpaste 100g,Personal Care,23,45,5,2313,0,0,5,2313
+9398,4398,1007,7398,2075,Damaged Item,07:03.4,100,Processed,Lays Classic Salted 52g,Snacks,22,75,4,833,0,0,4,833
+12350,7350,1025,10350,2060,Damaged Item,35:03.4,135,Processed,Dove Soap 125g,Personal Care,21,60,7,2869,0,0,7,2869
+15164,10164,1002,13164,2099,Damaged Item,55:03.4,120,Processed,Mother Dairy Curd 400g,Dairy,17,99,1,950,0,0,1,950
+12744,7744,1032,10744,2018,Stale Product,50:03.4,960,Processed,Whisper Ultra Pads (30 pcs),Personal Care,22,18,9,4243,0,0,9,4243
+10869,5869,1038,8869,2095,Damaged Item,26:03.4,270,Processed,Coca-Cola 2L,Beverages,15,95,4,1995,0,0,4,1995
+9949,4949,1008,7949,2088,Damaged Item,10:03.4,750,Processed,Britannia Good Day Cashew 600g,Snacks,19,88,4,1738,0,0,4,1738
+14577,9577,1002,12577,2021,Damaged Item,24:03.4,120,Processed,Mother Dairy Curd 400g,Dairy,17,21,6,1647,0,0,6,1647
+14030,9030,1022,12030,2001,Damaged Item,20:03.4,480,Processed,Fortune Sunflower Oil 1L,Grocery,20,1,3,1461,0,0,3,1461
+12971,7971,1033,10971,2022,Stale Product,48:03.4,170,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,22,7,2100,0,0,7,2100
+12548,7548,1019,10548,2000,Damaged Item,30:03.4,199,Processed,Dabur Honey 500g,Grocery,18,0,5,4235,0,0,5,4235
+9499,4499,1009,7499,2032,Damaged Item,43:03.4,140,Processed,Farm Fresh Tomatoes 500g,Vegetables,26,32,3,1760,0,0,3,1760
+12241,7241,1047,10241,2046,Stale Product,21:03.4,1155,Processed,Head & Shoulders Shampoo 650ml,Personal Care,15,46,3,2800,0,0,3,2800
+8080,3080,1001,6080,2018,Damaged Item,32:03.4,1040,Processed,Amul Butter 500g,Dairy,27,18,9,4243,0,0,9,4243
+11091,6091,1027,9091,2036,Damaged Item,27:03.4,396,Processed,Real Mixed Fruit Juice 1L,Beverages,21,36,7,2930,0,0,7,2930
+12120,7120,1035,10120,2019,Stale Product,17:03.4,270,Processed,Sprite 2L,Beverages,16,19,9,3970,0,0,9,3970
+12893,7893,1021,10893,2067,Stale Product,42:03.4,1198,Processed,Patanjali Ghee 1L,Grocery,14,67,2,4193,0,0,2,4193
+10281,5281,1045,8281,2040,Stale Product,33:03.4,240,Processed,Parle-G Biscuits 800g,Snacks,17,40,4,900,0,0,4,900
+9392,4392,1011,7392,2018,Stale Product,18:03.4,240,Processed,Bananas (12 pcs),Fruits,19,18,9,4243,0,0,9,4243
+13846,8846,1033,11846,2093,Damaged Item,37:03.4,425,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,93,2,850,0,0,2,850
+13642,8642,1016,11642,2096,Stale Product,54:03.4,750,Processed,Nescafe Classic Coffee 100g,Beverages,21,96,10,5020,0,0,10,5020
+15816,10816,1027,13816,2066,Stale Product,44:03.4,198,Processed,Real Mixed Fruit Juice 1L,Beverages,21,66,7,3908,0,0,7,3908
+13953,8953,1006,11953,2075,Stale Product,14:03.4,28,Processed,Maggi Noodles 70g,Snacks,21,75,4,833,0,0,4,833
+16761,11761,1033,14761,2007,Damaged Item,10:03.4,255,Processed,Oreo Chocolate Biscuits 300g,Snacks,20,7,5,1545,0,0,5,1545
+13775,8775,1030,11775,2059,Damaged Item,28:03.4,700,Processed,Johnson's Baby Powder 400g,Personal Care,22,59,5,2780,0,0,5,2780
+14614,9614,1014,12614,2049,Damaged Item,44:03.4,580,Processed,Dettol Handwash 750ml,Personal Care,13,49,7,2340,0,0,7,2340
+17532,12532,1043,15532,2089,Damaged Item,16:03.4,140,Processed,Good Day Butter Cookies 600g,Snacks,18,89,4,1540,0,0,4,1540
+12981,7981,1006,10981,2073,Damaged Item,54:03.4,70,Processed,Maggi Noodles 70g,Snacks,21,73,7,2970,0,0,7,2970
+13194,8194,1041,11194,2012,Damaged Item,44:03.4,275,Processed,Nestle Everyday Milk Powder 500g,Dairy,21,12,7,5165,0,0,7,5165
+8151,3151,1018,6151,2039,Stale Product,37:03.4,950,Processed,Surf Excel Matic 1kg,Grocery,24,39,5,3560,0,0,5,3560
+17861,12861,1040,15861,2015,Stale Product,26:03.4,640,Processed,Sensodyne Toothpaste 100g,Personal Care,23,15,6,3065,0,0,6,3065
+12263,7263,1018,10263,2010,Stale Product,32:03.4,760,Processed,Surf Excel Matic 1kg,Grocery,24,10,10,5120,0,0,10,5120
+10227,5227,1039,8227,2042,Stale Product,19:03.4,550,Processed,Eveready AA Batteries (4 pcs),Electronics,20,42,6,2535,0,0,6,2535
+12329,7329,1022,10329,2036,Stale Product,46:03.4,160,Processed,Fortune Sunflower Oil 1L,Grocery,20,36,7,2930,0,0,7,2930
+16492,11492,1044,14492,2045,Damaged Item,21:03.4,510,Processed,Brooke Bond Red Label 500g,Beverages,18,45,5,2313,0,0,5,2313
+11137,6137,1039,9137,2064,Stale Product,50:03.4,440,Processed,Eveready AA Batteries (4 pcs),Electronics,20,64,8,2990,0,0,8,2990
+13022,8022,1030,11022,2070,Stale Product,27:03.4,525,Processed,Johnson's Baby Powder 400g,Personal Care,22,70,5,4551,0,0,5,4551
+8116,3116,1000,6116,2028,Damaged Item,27:03.4,360,Processed,Amul Taaza Milk 1L,Dairy,29,28,4,1555,0,0,4,1555
+11825,6825,1006,9825,2042,Stale Product,04:03.4,70,Processed,Maggi Noodles 70g,Snacks,21,42,6,2535,0,0,6,2535
+17067,12067,1040,15067,2034,Stale Product,11:03.4,800,Processed,Sensodyne Toothpaste 100g,Personal Care,23,34,4,2616,0,0,4,2616
+12807,7807,1001,10807,2016,Stale Product,08:03.4,260,Processed,Amul Butter 500g,Dairy,27,16,10,5503,0,0,10,5503
+10761,5761,1022,8761,2090,Damaged Item,00:03.4,800,Processed,Fortune Sunflower Oil 1L,Grocery,20,90,4,1091,0,0,4,1091
+13092,8092,1017,11092,2073,Stale Product,11:03.4,480,Processed,Tata Tea Premium 500g,Beverages,12,73,7,2970,0,0,7,2970
+14419,9419,1031,12419,2084,Damaged Item,07:03.4,520,Processed,Himalaya Face Wash 100ml,Personal Care,19,84,3,2380,0,0,3,2380
+15035,10035,1035,13035,2081,Stale Product,29:03.4,360,Processed,Sprite 2L,Beverages,16,81,9,4529,0,0,9,4529
+16028,11028,1010,14028,2004,Stale Product,42:03.4,360,Processed,Golden Apples 1kg,Fruits,18,4,7,5781,0,0,7,5781
+8750,3750,1023,6750,2003,Damaged Item,05:03.4,675,Processed,Haldiram's Bhujia 400g,Snacks,23,3,6,2062,0,0,6,2062
+17265,12265,1035,15265,2059,Stale Product,15:03.4,450,Processed,Sprite 2L,Beverages,16,59,5,2780,0,0,5,2780
+15520,10520,1044,13520,2087,Damaged Item,00:03.4,850,Processed,Brooke Bond Red Label 500g,Beverages,18,87,6,1715,0,0,6,1715
+16852,11852,1028,14852,2008,Damaged Item,37:03.4,300,Processed,Catch Black Pepper 100g,Grocery,12,8,8,4080,0,0,8,4080
